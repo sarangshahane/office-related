@@ -1,0 +1,408 @@
+// Script to remove jupitor x theme conflict
+
+add_action( 'wp', 'remove_extra_html' );
+
+function remove_extra_html(){
+
+ $post_type = get_post_type();
+
+ if( 'cartflows_step' == $post_type ){
+
+	remove_action( 'woocommerce_review_order_after_submit', 'jupiterx_wc_continue_shopping_button' );
+	remove_action( 'woocommerce_proceed_to_checkout', 'jupiterx_wc_continue_shopping_button', 5 );
+	remove_action( 'woocommerce_review_order_before_submit', array( $this, 'woocommerce_review_order_before_submit' ) );
+	remove_action( 'woocommerce_proceed_to_checkout', array( $this, 'woocommerce_proceed_to_checkout' ) );
+
+ }
+}
+
+================================================================================================================================================
+
+AJ00
+http://screenshots.sharkz.in/sarang/2019/05/2019-05-07_17-45-23.png - Chain length	=> 46 cm | 50 cm
+http://screenshots.sharkz.in/sarang/2019/05/2019-05-07_17-45-48.png - Jewel Edition => “Alphaville” on top | “SIBI CANIT ET ORBI” on top
+http://screenshots.sharkz.in/sarang/2019/05/2019-05-07_17-46-41.png - New term 		=> no1variation | no2variation
+
+
+================================================================================================================================================
+
+steve_api1.revivestronger.com
+CXNFNMSJXLGVUZ7V
+AlnqlCG3GJ6inj38jluq4j2gS.nbAsG1CBcILmUA6sVQUuMPTA-EU5Bt
+
+
+revivestronger.com
+
+Live API Username steve_api1.revivestronger.com
+Live API Password CXNFNMSJXLGVUZ7V
+Live API Signature AlnqlCG3GJ6inj38jluq4j2gS.nbAsG1CBcILmUA6sVQUuMPTA-EU5Bt
+
+
+https://cl.ly/e057283c52b9
+
+https://cl.ly/d04c1b91e495
+
+
+=============================================================================================================================== 
+
+
+Hello,
+
+Thank you for getting back to us!
+
+Please find the answers to your questions below
+
+1. I don’t find how i add create pop-up for before close browser for provide to customer last campaing or benefits (like discount, coupon etc)
+=> Un fornatull it is not possible with the CartFlows, you need to install another plugin to achive this functionality. I have found this plugin you can try this: https://wordpress.org/plugins/exit-popup/
+
+2. I don’t find how i make data collect from user with pop-up or something like that.
+=> You can add the popup using your page builder, and to collect the data you can place the from on it. 
+
+3. I guess your analytics feautre is not ready for pro version too. Right?
+=> What exactly you want to do? We are working on the analytics to improve the tracking and adding some features.
+
+4. Can i make integration to another app? Mailchimp, some crm etc?
+=> Actually, you have to make the integration with the WooCommerce & the Mailchimp or any other CRM, if they are compatible with the WooCommerce then it will automatically work with the CartFlows.
+
+5. I think A/B test is very important to this app
+=> Yes, we have this feature in our plan and it will be planned accordingly. 
+
+I hope this clarify you.
+
+Please let me know in case you have more questions. 
+
+
+http://screenshots.sharkz.in/sarang/2019/06/2019-06-25_10-54-20.png
+http://screenshots.sharkz.in/sarang/2019/06/2019-06-25_10-55-11.png
+http://screenshots.sharkz.in/sarang/2019/06/2019-06-25_10-55-21.png
+http://screenshots.sharkz.in/sarang/2019/06/2019-06-25_11-29-31.png
+http://screenshots.sharkz.in/sarang/2019/06/2019-06-25_11-43-46.png
+
+
+===================================================================================================================================================== 
+
+
+Hello,
+
+Please find the answers to your questions below.
+
+1. I don’t need clickfunnels and also don’t need thrivecart if i have cartflows Is that right?
+=> I don't say yes either, but those are for different platforms and different environments. But I can say that CartFlows can do a lot as well. using the CartFlows you can replace the default old looking checkout page and provide the bump order & the upsell & downsell as well. Also we have our custom field editor too. 
+
+2. What i also like with thrivecart is the integration with shopify. Can i do the same with cartflows? So the product what i sell within my funnel push this to my shopify adminstration?
+=> Unfornatully, There is no possible integration with the cartFlows & Shoppify but you can integrate shopify with the WooCommerce and which will automatically shwould work with the CartFlows. Because the CartFlows uses the WooCommerce as a base plugin.
+Here is the article of WooCommerce & Shopify integration: https://automate.io/integration/shopify/woocommerce
+
+Please let me know how it goes.
+
+
+====================================================================================================================================================== 
+
+1. Coupons auto applied by other plugins don’t work in checkout page
+=> From which plugin you want to add the coupons? As of now, if the coupon is already applied then the other coupon will not be applied. Also, if you are trying to apply the coupon from the URL then it will not work as because we haven't added the support for it on the checkout page. 
+
+2. Does product variation has input fields?
+=> No, Product variation don't have the input fields. Here is how it works: You need to select the product in the backend setting of the checkout page which is having the variation. Then you need to enable the Products, variation & Options setting, select the bellow options mentions, enable the variation & quantity options. This settings will display the Product variation on the CartFlows checkout page. 
+Check below images for the reference: 
+1. https://cl.ly/bf3eb796adb9
+2. https://cl.ly/bf3eb796adb9
+
+3. After the update form has become half
+=> In the recent update we have released a new feature to include the theme's header & footer on the CartFlows pages. Can you please tell me what is the value of the Post Atributes on the checkout page? Check this image for the reference: https://cl.ly/984cdfbe22e9
+Can you please provide the URL of the page where I can check this? 
+
+I hope this clarifies you.
+
+Looking forward to hearing from you. 
+
+
+
+.wcf-embed-checkout-form.wcf-field-style-one .woocommerce-account-fields .create-account.wcf-anim-label .woocommerce-form__label-for-checkbox{
+	position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+====================================================================================================================================================== 
+
+Welcome to the CartFlows Support!
+
+Please find the answers to your questions below!
+
+1. What happens in a flow if a customer pays with paypal (i do not have reference transactions enabled) in an upsell step?
+=> The paypal has two payment gateways and that are PayPal Standard & PayPal Express Checkout. So in the PayPal standard, when the user is going to purchase the main product from the checkout page he will be redirected to PayPals page to login & make the payment or pay using the Credit/Debit Card. When the amount/transaction is been captured by the Paypal he will be redirected back to your website and here CartFlows will check for the next step is present or not like upsell or downsell. If the Upsell/Downsell is present then he will be redirected to the upsell/downsell page and if the user accepts the upsell then an another charge will be automatically been captured by the PayPal adding the Upsell or downsell in the order. Once the order is been registered in the PayPal the user will be redirected to the Thank you page and the checkout process gets complete. 
+
+The same process will happen with the PayPal express checkout  payment gateway. Only the difference is that, instead of redirecting the user on the PayPal's website to make the payment. The PayPal will open a new popup/window shoing the options to make the payment. This is the same for the upsell & Downsell. Thus this popup is displayed at the time of Upsell & Downsell to make the One click upsell/downsell happen you need to enable the reference transaction in the CartFlows settings page as well as on the PayPal account too. 
+
+2. Also, if a customer paid with stripe, but didnt got the upsell, can I send him back later (ie. 2 days later) to the upsell step? will they be able to pay with one click?
+=> If the user didnt got the upsell using the stripe then you cannot send the direct URL of the Upsell / Downsell page because, CartFlows adds the upsell / Downsell product in the same order that is been created at the time of purchasing the main product from the checkout page. Thus, if you send the direct Upsell / Downsell page URL to your then will get the error as "Order does not found/exist" OR "You cannot access this page directly". 
+
+Instead yoou can add that Upsell product on the seperate checkout page and send him the URL of that page to purchase it separeately. 
+
+3. Are Upsells like a "yes" condition, and downsells like a "no" condition? So a if a flow is like: Landing -> checkout -> upsell -> downsell -> upsell -> downsell, etc. So if the customer accepted the first upsell, he will be redirected to ne next upsell (skipping the downsell), right?
+=>Yes, If the user accepts the first Upsell then he will be redirected to the next upsell and then to thank you page to complete the checkout process.
+
+I hope this clarify you.
+
+Feel free to get in touch in case you have more questions.
+
+====================================================================================================================================================== 
+
+
+
+Hello,
+
+Welcome to the CartFlows support!
+
+Please find the answers to your question below.
+
+1. First problem is on my large computer i can't go to the payment section.. i can easily type in all my delivery information but i'm not given acces to go to the "second step" which is the payment. - But it works perfectly on my laptop and phone.
+=> That's odd, I just checked your page and didn't found any errors or warnings on the browser's console too. As because, that functionality is been handled from the JS code. Also, I found that you are using an autoptimize plugin for the caching. Can you please try clearing & excluding the CartFlows checkout pages for the cache as because it can mixup the JS and some times functionality does not works. Check this image for the reference: https://cl.ly/89b7c753cc9e
+
+Let me know in case you need more clarification.
+
+2. My second problem is adding several checkouts. I'm selling subscription based products and i have 3 different subscriptions. and i would like each one to show the different product the costumer is about to purchase.But when i try adding several checkouts it always just shows my "global checkout"... i even tried not having a global checkout, but then it just shows the regular WooCommerce checkout.(and i have added the different products to the checkouts).
+=> actually if you set the CartFlows checkout page as a global checkout then your checkout process will be Shop -> Cart -> Checkout -> Upsell / downsell -> Thank you. 
+
+But If you are adding the multiple checkout pages in the single flow then only one checkout page will work. Also, if you have set the global checkout and still you want to use the separate checkout pages then they can be accssed from the landing page only using the next step link.
+
+I hope this clarify you.
+
+Feel free to get in touch in case you need more help I am here to help you out. 
+
+Please expect the delay in the response due to the weekend.
+
+====================================================================================================================================================== 
+
+" Oh I see your discussion. It was related to string translation vs entire page translations and how page translations create a clone of your page, thus causing this. Copying an entire step in a flow for the translation is not something that works. But you can translate the strings. "
+
+1. Just to verify - is it possible or not? I am more an more confused. Since I love the plugin I want to double check on this again. 
+=> Currently, we haven't added a full support of the WPML in the CartFlows where you can translate the full pages. Here is what WPML does while tanslating the page: WPML create  duplicate post for the page that you wanted to translate & copies all its metadata along with it. 
+But, as we have not added the compatibility WPML dies creates a duplicate post and does copies all the metadata but unable to communicate back with the CartFlows saying this is the new post which is translated instead of the original. And here it creates the problem. The post gives not found error or something else. But instead of translating the wholse page you can translate the strings present on that page using WPML as well as the Loco translate plugin.
+
+2. I tried WPML String translation but that doesn't seem to work. Or am I missing something?
+=> Have you gone through the steps which are mentioned below? If not then can you please give it a try. This will translate the strings on the page. 
+ 1) Go to WPML->Themes & Plugin localization and check the "Translate the theme and plugins using WPML's String Translation" checkbox
+ 2) Once saved go below the page under "Strings in the theme/plugins"
+ 3) Choose the woocommerce plugin that you are using and select the "Scan the themes/plugins for strings" Button
+ 4) Once the scanning process is finished, go to WPML->Strings translation - Search for the strings and translate them to the secondary languages.
+ 
+3. If it's possible with Loco translate I could try to do it. But will that be possible if I still use WPML for the rest?
+=> We haven't tried translating the plugin by keeping both plugins active but you can try and let me know in case you face any issues.
+
+Please follow the below steps to translate the Coupon text and the button text. 
+1. Install & activate the Loco Translate Plugin. You can download it from here: https://wordpress.org/plugins/loco-translate/
+2. Goto Loco Translate ( Menu- left-hand side )-> Plugins -> Select CartFlows -> Click on New language -> Select the language you want to translate into.  
+3. Search the words/string you want to translate and save the changes after adding translated text
+4. Goto Setting -> General -> Site language. Change the site language to which you want to translate all the text and save the changes. 
+
+See this video to get step by step instruction/view on how to translate the strings: https://bit.ly/2CH2nlp ( This is just for the example purpose )
+
+Let me know how it goes. 
+
+4. If there's any way to do this, please let me know a little more detailed how it's possible. 
+=> Also, you can translate the pages using the already translated files. We have set up the GlotPress project where users contributes to translating the plugin strings. 
+
+You can download the already translated files of your language from our Glotpress account from here: https://translate.cartflows.com/glotpress/projects/
+Steps to include the files are:
+1. Visit the above-provided link and select the plugin name Free Or Pro.
+2. Search for your language and click on it. 
+3. Scroll to the bottom of the page and export the files. You need .mo & .po files to translate the strings in the plugin. Check this image for the reference: https://cl.ly/c87522258a3f
+
+I hope this helps.
+
+Please let me know in case you need more help. I am here to help you out. 
+
+Please expect the delay due to the weekend.
+
+====================================================================================================================================================== 
+
+
+Hello,
+
+Thank you for getting back to us!
+
+1. With the pro is it a one time fee? How much is it? Please can you advise of the benefits of pro?
+=> The Pro version of the CartFlows is of $299 per year and it is a annual plan. With this plan you will get one license key and you can use this one license key on upto 30 websites. Including the Child sites.
+
+Below are some benifits of the CartFlows pro
+- Import Pro templates.
+- Create Order bumps.
+- Create multiple Upsells.
+- Create multiple Downsells.
+- Field control (Reordering, Changing Labels, Custom Fields)
+- Single column checkout form.
+- 2 step checkout form.
+- Floating Field style.
+- Flow/Funnel Analytics.
+- Countdown timers ( Coming Soon ).
+- Split testing ( Coming Soon ).
+- SkillJet training platform ( Coming Soon )
+- And a few other odds and ends
+
+2. In the free verson can you create as many flows as you like? As you have to create a new flow for each product.
+=> Yes, you can create as many flows as you want in the lite.
+
+I hope this helps.
+
+Please let me know in case you have more questions. 
+
+
+====================================================================================================================================================== 
+
+
+Hello,
+
+Thank you for getting back to us & sorry for the delay in the response due to the weekend. 
+
+I checked the checkout page URL and it seems that the settings that you have applied are working fine. Because the create an account field are not visible on the checkout page. Check this image for the reference: https://cl.ly/b136e41c12af
+
+If you are still facing the same problem then can you please try clearing the cache of your site? 
+
+Also If you are saying that the user is getting this form as mentioned in the screenshot then this form is coming from the firewall setting that you have applied on your site. Try disabling the firewall and let me know how it gos. Check this image for the reference: https://cl.ly/49f35e7a754d
+
+You can create a user by using this email id: support@cartflows.com and share the username & password. 
+
+2. The checkout fields in the mobile version are too short.
+=> We have already an update regarding this issue, can you please update the free version of the CartFlows. If you have updated the plugin then i checked the CSS file and it looks like that you are using a caching & the CSS optimization plugins. Can you please try clearing the cache and let me know how it goes. 
+
+3. Two icons not showing up when I check from my mobile device.
+=> I checked and found that the Icons which you have mentioned in the screenshot is displaying properly in the mobile devices. If you are not able to view then can you please check the mobile device settings made from your page builder. Check this image for the reference: https://cl.ly/03d9033e4a3e
+
+Also, there are some console errors in the browser due to which it also can happen. The main reason behind the console errors is the cache or minification of the JS & CSS files. Check this image for the reference: https://cl.ly/84fb31f6e57c
+
+So, can you please try deactivating these plugins & let me know how it goes. 
+
+Feel free to get in touch in case you need more help.
+
+
+====================================================================================================================================================== 
+
+
+Hello,
+
+Thank you for contacting us!
+
+Please find the answers to your questions below.
+
+- Does the checkout work just like a normal Woo Checkout? We are using AutomateWoo for cart abandonment and would like to know if it will work the same with CartFlows checkout.
+=> Yes, it should work with the AutomateWoo as it is working with the Default Checkout page. The CartFlows is using the same checkout fields as the WooCommerce's fields. So, if you want to integrate anything with the CartFlows then you need to integrate it with the WooCommerce. 
+
+
+- As we are operating in some countries that do not support Stripe would we be able to speed up upsell/downsell support for Klarna & Checkout.com payment gateways if we co-finance the development?
+=> I have notified about this to our management and everything goes well, we will start working on it and let you know.
+
+
+- Is it possible to add different upsells based on the payment gateway selection? Lets say a client selects PayPal as a payment method and we would like to show flow A, but when they select Stripe as payment method, we would like to show flow B.
+=> Unfornatully it is not possible to display the upsell / downsell on the basis of the payment gateway. But it is a nice suggestion and a idea, I have added this into our list and it will be planned accordingly.
+
+
+- Is it possible to add different shipping costs based on the payment gateway selection? If someone would select PayPal, we would charge 5$, but if someone would select Stripe, we would charge 4$.
+=> Unfornatully this is related to the WooCommerce and you need to find the separate plugin to make it happen. I searched for it and found an article of the WooCommerce. I hope this will help you. Here is the link of it: https://docs.woocommerce.com/document/woocommerce-conditional-shipping-and-payments/
+
+
+- When selling subscription products with CartFlows, can we sell 1$ trial version of a product and then offer a yearly subscription of the same product on upsell?
+=> Actually, you can offer the subscription product in the upsell/downsell but if you want to sell the $1 trial version product and the same product in the upsell for a yearly subscription then the subscription of the first product offered on the checkout page having the $1 price will not be cancled and the again another same product will be purchased on the upsell. In this case you have to cancel the subscription of the $1 product manually. 
+
+- What is your plan for the upcomming 3D Secure 2 enforcement in Europe, that is comming in September. We have checked the current checkout flow with a 3d Secure 2 test card on Stripe, and it works, but it ignores the upsell/downsell steps: http://recordit.co/RHi65Z0By2
+=> The 3D Secure 2 will work with the normal checkout process and the bump order but it will skip the upsell/downsell because it is not integrated with the upsell/downsell. We have it in our list to integrate it with the CartFlows along with all other payment gateways. If we get more request for it then will be prioritize it. 
+
+
+I hope this clarify you.
+
+Let me know in case you have more questions. 
+
+
+====================================================================================================================================================== 
+
+
+Hello,
+
+Thank you for your patience!
+
+I have an update regarding your questions.
+
+Please find the answers to your questions below
+
+1. Is there any way that I can set the CartFlow Steps (Pages) as the default fall-back "Checkout" or "Cart" Page for WooCommerce??
+=> Actually it is not possible, that means you cannot directly select the checkout page in the WooCommerce's page settings. Instead you can set the checkout page as a global checkout. This will automatically redirect you to the CartFlows checkout page instead of default checkout page. 
+
+2. the product is added to cart, but the "View Cart" popup banner still appears at the top of the page...
+=> It is the default WooCommerce functionality however you can disable this message from apearing on the page that you have created by using the custom code. Here the code for it. add_filter( 'wc_add_to_cart_message_html', '__return_null' ); Add this custom code into your child theme's functions.php file at the very end of it. 
+
+3. If the customer (or you) clicks "View Cart" then this takes them to https://brioaudio.com/cart__trashed/ which is a error page. (I have removed the default cart page since it was very ugly with the Elementor Hello Theme. 
+=> This page is required to display the cart page and for the some functionality such as to add the products in the cart. If you delete this page, then there is a chanse that some of the cart which is dependant on it might not work. However you can design the Cart page as per our needs using the page builder. Here are some articles which can help you to do it. 
+	I. https://www.youtube.com/watch?v=DuLyJbH9TTo
+	II. https://wordpress.org/plugins/personalize-woocommerce-cart-page/
+
+4. I would like this (or any time the brioaudio.com/cart) to redirect to the CartFlows page. But I can't figure out how to do it because the cartflows page doesn't show up as an actual page.
+=> If you want to redirect the the Cart page to the CartFlows Checkout page then you need to add the redirection rule for it. Otherwise there is a custom code, which will redirect the user to the checkout page when the user clicks on the "View Cart" button. 
+Here is the custom code for this: Please add this into your child theme's functions.php file at the very end of it. 
+
+add_filter('woocommerce_add_to_cart_redirect', 'in_redirect_add_to_cart');
+function in_redirect_add_to_cart() {
+    $cw_redirect_url_checkout = "checkout-page-8"; // Here add the slug of the page on which you want to redirect. ( Slug = https://cl.ly/a161d6a99e09 )
+    return $cw_redirect_url_checkout;
+}
+
+Also, the steps that you mentioned in the expected section, is currently working at our end. 
+Check this video of it: https://cl.ly/5f41f0d2ff23	
+
+Can you please confirm it is working at your end too? If not then please let me know. I will try my best to make this happen. 
+
+I hope this clarify you!
+
+Please feel free to get in touch in case you need more help I am here to help you out. 
+
+
+====================================================================================================================================================== 
+
+
+Hello Faith,
+
+Thank you for getting back to us!
+
+
+Please find the answers to your questions below.
+
+1. Is there a way to design the checkout page, so that user can reduce or cancel ordered items? At the moment my Woocommerce will not allow it. Do you think override this with cart flows? or generally the base woocommerce settings rule?
+=> Yes, you can customize the CartFlows Checkout page but if you want to customize the WooCommerce's Default Checkout page using the CartFlows then it is not possible. Because the CartFlows is not a page builder it is a Sales funnel Builder.
+So, if you want to change the UI of the Default Checkout page then you can set the CartFlows Checkout page as a Global Checkout. This will replace the Default page with the CartFlows checkout page. Also it will inherit the WooCommerce's default page properties too. 
+
+
+2. I see this on the edit page. What does that mean? http://prntscr.com/o9z4y7
+=> This message is displaying because the page builder displays the shortcode in the Iframe while editing the page. So, some functions of the WooCommerce are not present that is why this message is displayed. To make it work you can make the changes in the page and update the changes it will start to display the fields. Also, you can press right button click of the mouse while the control ( ctrl ) button pressed and select the option reload the iframe. 
+
+
+3.  I activated Beaver Builder but I still see the same templates. Actually I see only 4 free templates (even what was free is now also pro)
+Is this normal?
+=> Actually, when you acivates the beaver builder then you will get four free flow templates & the 4 Pro Flow templates. 
+Also here are the numbers of templates that you will get. 
+
+Free Version
+- landing page 	 = 4
+- Checkout page  = 4
+- Upsell Page    = 0
+- Downsell Page  = 0
+- Thank You page = 4
+
+Pro Version  ( Free Version templates will also be added )
+- landing page 	 = 4
+- Checkout page  = 4
+- Upsell Page    = 4
+- Downsell Page  = 4
+- Thank You page = 4
+
+
+4 I am trying to set up Cartflows for my other website, but I have the same issues as before. Please check https://mayaburcum.com/checkout-page/
+Which code I should add now, and where?
+=> Unfornatully I an not able to see the theme conflict on the page. Can you please provide the screenshot of it or the login details of the site will do the needful.
+
+I hope this clarify you.
+
+Looking forward to hearing from you. 
+
+
+.wcf-embed-checkout-form .woocommerce-checkout #order_review_heading{
+	display:none;
+}

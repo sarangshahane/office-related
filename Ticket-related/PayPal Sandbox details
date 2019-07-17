@@ -1,0 +1,56 @@
+My Encoded Password: 
+Decoded: Sarang@123
+Encoded: U2FyYW5nQDEyMw==
+
+Receiver email: sarangbusiness321@gmail.com
+
+Sandbox API username : sarangbusiness321_api1.gmail.com
+Sandbox API password : 3Y9W3EMKL3MYGW36
+Sandbox API signature :AXSd1qScr76OJvJhzLTpqojPufcVAcokGlze6Abfzxw-zFN3N7Fvf5Q2
+
+Own OFC:
+
+Accounts: 
+
+1. sarangs-facilitator@bsf.io
+
+2. sarangs-buyer@bsf.io
+
+3. sarangsbuyer@bsf.io
+
+
+Sandbox API username : sarangs-facilitator_api1.bsf.io
+Sandbox API password : LYUATJRCN5AJHRHD
+Sandbox API signature : AKGqiD9OpjlxVIn6rhtztPr0e1ZBA54tSFkgHs-WHBhRIGKXsGn1EUXv
+
+Security token : -mRtXarW-U-W39obaSEHhGfd9VU_rD1jWy9MLyVeoIMX5KuA-vXxt-7Q9DC
+
+mirapadhiary@gmail.com
+
+One Time Offer x4 Dog Seat Belt 6303
+
+
+
+alex@daveyandkrista.com
+
+
+Hello, 
+
+Thank you for your patience!
+
+I was able to login to your staging site and made the settings in the PayPal Standard's setting. Now your PayPal Standard & the PayPal Checkout Payment gateway both are working on the staging site. 
+
+Also, I found that you were using the WP Rocket plugin for the cache, and it was causing the issues. It was blocking some JS from loading and that is why the PayPal checkout was not loading properly on the upsell page but it was taking too much time to load. 
+
+I have fixed both the payment gateways here is the working video of it: https://cl.ly/d0e2736bf905
+
+Here are the settings which you have to make in order to make it work on the live site.
+1. https://cl.ly/a77393454ce0
+2. https://cl.ly/ba1a27d34509
+
+You need to apply the exact setting on the live website & disable the WP Rocket or exclude the CartFlows pages from the local & server cache.
+
+I Hope this helps.
+
+Please let me know how it goes and feel free to get in touch in case you need more help.
+

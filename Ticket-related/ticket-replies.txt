@@ -1,0 +1,480 @@
+Free & Pro Comparison. 
+
+Hi!
+
+How are you!
+
+Yes, we have a Free as well as a Paid version of Cartflows.  
+Here is the comparison between them.
+
+In the free version, you can do the following things:
+
+- Build unlimited funnels.
+- Build unlimited custom checkout experiences using your page builder.
+- Build funnels using our free templates.
+- Build custom thank you pages.
+- Replace the default WooCommerce checkout and thank you page.
+- And many more things.
+
+In the paid version, you can do the following amazing things: 
+- Import Pro templates.
+- Create Order bumps.
+- CreateUpsells.
+- Create Downsells.
+- Field control (Reordering, Changing Labels, Custom Fields)
+- Single column checkout form.
+- 2 step checkout form.
+- Flow/Funnel Analytics.
+- Countdown timers ( Coming Soon ).
+- Split testing ( Coming Soon ).
+- SkillJet training platform ( Coming Soon )
+- And a few other odds and ends
+
+Let me know what helps you. 
+
+========================================================================================================================================================
+
+Invalid License
+
+Welcome to CartFlows support!
+
+I am sorry that you are not able to activate the license of your copy. Don't worry, I will help you with this.
+
+This is might be a temporary issue, can you please deactivate and re-activate the plugin from the plugins sections.
+If this is the temporary issue then it will be automatically resolved.
+If you still face the same issue then I will have to look deeper in the backend.
+
+Let me know how it goes.
+
+Looking forward to solving your issue ASAP. 
+
+========================================================================================================================================================
+
+Can I manually update?
+
+Yes, you can manually update the latest zip on the website. Please follow the below steps. 
+I. Backup all your site including the database.
+II. Download the lates plugin zip from you account. Login here to download it. 
+III. Deactivate the plugin which you wanted to update. 
+IV. Delete the deactivated plugin which you want to update.
+V. Goto Plugins->Add New-> Upload section and select the latest zip and click on upload and activate it. 
+
+Let me know how this process goes.
+
+========================================================================================================================================================
+
+How to find the conflict
+
+If there is a conflict with another plugin then you can try the below steps to find it out. 
+
+   I. Make sure you have all the backup of your site.
+ II. Deactivate all your plugins.
+III. Yes, All Plugins.
+
+If the conflict is gone after you deactivate all your plugins, then you have a conflict in one of your plugins.
+Activate your plugin one by one to get the conflicting plugin. If you got the plugin contact that plugin author to solve this.
+Let me know how this process goes. This will help us as well to find the solution. 
+
+========================================================================================================================================================
+
+Five Star Rating
+
+----------------------------------- For Emails -----------------------------------
+
+Hello,
+
+You are most welcome!
+
+I am happy that the custom code worked for you. I would love to give you the same quality support even if you go for the premium and more!
+
+By the way, I was thinking that you also can help us as well? If you don't mind, I'd really appreciate if you could rate CartFlows plugin with five stars for the quality and support we provide here. ( <- https://wordpress.org/support/plugin/cartflows/reviews/?rate=5#new-post )
+
+This would help other users make a comfortable decision while purchasing the plugin and be assured of the support we provide.
+
+You can also join our CartFlows Community on Facebook for updates and new releases from here. ( <- https://www.facebook.com/groups/cartflows/ )
+
+Have a great day ahead!
+
+Feel free to get in touch in case you face any issues. 
+
+----------------------------------- For FB Msg -----------------------------------
+
+You are most welcome!
+
+I would love to give you the same quality support even if you go for the premium and more!
+
+By the way, I was thinking that if you like the support & the plugin then, can you please take a movement to rate CartFlows plugin with five stars. You can give the rating from this link:-  https://wordpress.org/support/plugin/cartflows/reviews/?rate=5#new-post
+
+This would help other users make a comfortable decision while purchasing the plugin and be assured of the support we provide.
+
+You can also join our CartFlows Community on Facebook for updates and new releases from here. https://www.facebook.com/groups/cartflows/
+
+Have a great day ahead!
+
+Feel free to get in touch in case you face any issues.
+
+
+========================================================================================================================================================
+
+Update the development version on the site
+
+======================================================= Pro Start =======================================================
+
+Please download the latest version from here. 
+
+Note: I have made the changes in the Paid Version of the CartFlows that is CartFlows Pro, so you need to update the CartFlows Pro version on the site. 
+Please follow the below steps to update the zip on the site.
+
+1. Take a full backup of your website including the database. ( Try it on staging site instead of doing it on the live version )
+2. Download the latest version from here. 
+3. Deactivate & delete the CartFlows Pro version.
+4. Goto Plugins -> add new -> upload button and select the latest CartFlows Pro zip which you have downloaded in step 2. 
+5. Click install & activate the plugin. 
+
+In case you are unable to download the latest zip please use this link: https://bit.ly/2OGhsIW
+
+Let me know how it goes. 
+
+In case you face any issue, please let me know. 
+
+========================================================== Pro Start  ==========================================================
+
+========================================================== Lite Start ==========================================================
+
+Please download the latest version from here. 
+
+Note: I have made the changes in the Free Version of the CartFlows, so you need to update the CartFlows version (Free) on the site. 
+Please follow the below steps to update the zip on the site.
+
+1. Take a full backup of your website including the database. ( Try it on staging site instead of doing it on the live version )
+2. Download the latest version from here. 
+3. Deactivate & delete the CartFlows version (Free).
+4. Goto Plugins -> add new -> upload button and select the latest CartFlows zip which you have downloaded in step 2. 
+5. Click install & activate the plugin. 
+
+In case you are unable to download the latest zip please use this link: https://bit.ly/2OGhsIW
+
+Let me know how it goes. 
+
+In case you face any issue, please let me know.
+
+========================================================== Lite Start ==========================================================
+
+
+========================================================== Lite Start ==========================================================
+
+WooCommerce Cart Abandonment Recovery
+
+Please download the latest version from here. 
+
+Note: I have made the changes in the "WooCommerce Cart Abandonment Recovery" plugin, so you need to update the "WooCommerce Cart Abandonment Recovery" on the site. 
+
+Please follow the below steps to update the zip on the site.
+
+1. Take a full backup of your website including the database. ( Try it on staging site instead of doing it on the live version )
+2. Download the latest version from here. 
+3. Deactivate & delete the "WooCommerce Cart Abandonment Recovery".
+4. Goto Plugins -> add new -> upload button and select the latest "WooCommerce Cart Abandonment Recovery" zip which you have downloaded in step 2. 
+5. Click install & activate the plugin. 
+
+In case you are unable to download the latest zip please use this link: https://bit.ly/2OGhsIW
+
+Let me know how it goes. 
+
+In case you face any issue, please let me know.
+
+========================================================== Lite Start ==========================================================
+
+========================================================================================================================================================
+
+How to translate the Stings using Loco Translate
+
+If you want to translate the text then you can also translate it by using the loco translate plugin. 
+
+Please follow the below steps to translate the Coupon text and the button text. 
+1. Install & activate the Loco Translate Plugin. You can download it from here: https://wordpress.org/plugins/loco-translate/
+2. Goto Loco Translate ( Menu- left-hand side )-> Plugins -> Select CartFlows -> Click on New language -> Select the language you want to translate into.  
+3. Search the words/string you want to translate and save the changes after adding translated text
+4. Goto Setting -> General -> Site language. Change the site language to which you want to translate all the text and save the changes. 
+
+See this video to get step by step instruction/view on how to translate the strings: https://bit.ly/2CH2nlp
+
+Let me know how it goes. 
+
+Feel Free to get in touch in case you face any issues. 
+
+========================================================================================================================================================
+
+Translate using WPML
+
+ 1) Go to WPML->Themes & Plugin localization and check the "Translate the theme and plugins using WPML's String Translation" checkbox
+ 2) Once saved go below the page under "Strings in the theme/plugins"
+ 3) Choose the woocommerce plugin that you are using and select the "Scan the themes/plugins for strings" Button
+ 4) Once the scanning process is finished, go to WPML->Strings translation - Search for the strings and translate them to the secondary languages.
+ 
+
+========================================================================================================================================================
+
+Translate using the GlotPress
+
+You can download the already translated files of your language from our Glotpress account from here: https://translate.cartflows.com/glotpress/projects/
+Steps to include the files are:
+1. Visit the above-provided link and select the plugin name Free Or Pro.
+2. Search for your language and click on it. 
+3. Scroll to the bottom of the page and export the files. You need .mo & .po files to translate the strings in the plugin. Check this image for the reference: https://cl.ly/c87522258a3f
+
+
+========================================================================================================================================================
+
+Header & footer using Elementor
+https://bit.ly/2UrxJa2 
+
+========================================================================================================================================================
+
+I am happy, it is working
+
+Hello,
+
+Thank you for your confirmation!
+
+I am happy that it is working fine for you. 
+
+Feel free to get in touch in case you face any issues. 
+
+Have a great day ahead.
+
+----------------------------------------------------------- 
+
+Hello,
+
+Thank you for getting in touch with us!
+
+Is there anything that I can help you with? 
+
+Feel free to get in touch with us in case you have more questions. 
+
+========================================================================================================================================================
+
+Invalid License ID
+
+
+Usually, this error comes when WordPress fails to generate the instance key while validating the license. This issue is temporary and can be solved by just deactivate the plugin & re-activate it.
+
+Let me know your thoughts on this. 
+
+========================================================================================================================================================
+
+Refund Message
+
+Hello,
+
+Thank you for your feedback.
+
+I'm so sorry to see our product did not meet your expectations and see you go. I've assigned your refund request to our store manager. He will get back to you soon. 
+
+In the future, I would love it if you give our product another try for any other projects you might have in mind.
+
+On another note - if you have any feedback, suggestions for us, we would love to hear that.
+
+Have a great day ahead.
+
+========================================================================================================================================================
+
+Welcome to the CartFlows Support!
+
+I'm so sorry to see our product did not meet your expectations and see you go. Would you like to share your thoughts/feedback which causes you to apply for the refund? So that we can improve the plugin and make it more flexible & user-friendly.
+
+Meanwhile, I will assign your ticket to our store manager so that he can review & initiate your refund process.
+
+Looking forward to hearing from you.
+
+========================================================================================================================================================
+
+Common reply for the payment gateway
+
+We have it in a plan to integrate more payment gateway in the CartFlows to add the support for the Upsell & Downsell. We have other things lined up with the priority as per the new functionality addition and the fixes which users are facing but our plan is to start integrating the payment gateway somewhere in June but it might be more or less.
+
+Till then, you can start integrating the Stripe on your site and offer the upsell.
+
+I hope this clarify you.
+
+Feel free to get in touch in case you have more questions.
+
+------------------------------------------------------------------
+I have added this payment gateway integration into our suggestion list. If we get more request from the users then we will prioritize it.
+------------------------------------------------------------------
+
+========================================================================================================================================================
+
+Hello,
+
+Welcome to the CartFlows Support!
+
+We have fixed this issue and released an update of it. Can you please try updating the CartFlows Free version? 
+
+Please let me know how it goes and feel free to get in touch in case you stuck. I am here to help you out. 
+
+
+========================================================================================================================================================
+
+All three ways of translation
+
+Hello,
+
+Thank you for contacting us and sorry for the delay in the response due to the weekend.
+
+You can translate the checkout page in the 3 different ways.
+1. WPML string translation.
+2. Loco Translate Plugin
+3. Download the translation files from our GlotPress account.
+
+Here are the steps for translating the checkout page.
+
+1. Using WPML 
+
+1) Go to WPML->Themes & Plugin localization and check the "Translate the theme and plugins using WPML's String Translation" checkbox
+ 2) Once saved go below the page under "Strings in the theme/plugins"
+ 3) Choose the woocommerce plugin that you are using and select the "Scan the themes/plugins for strings" Button
+ 4) Once the scanning process is finished, go to WPML->Strings translation - Search for the strings and translate them to the secondary languages.
+
+2. Loco Translate Plugin
+
+Please follow the below steps to translate the Coupon text and the button text. 
+1. Install & activate the Loco Translate Plugin. You can download it from here: https://wordpress.org/plugins/loco-translate/
+2. Goto Loco Translate ( Menu- left-hand side )-> Plugins -> Select CartFlows -> Click on New language -> Select the language you want to translate into. 
+3. Search the words/string you want to translate and save the changes after adding translated text
+4. Goto Setting -> General -> Site language. Change the site language to which you want to translate all the text and save the changes. 
+
+See this video to get step by step instruction/view on how to translate the strings: https://bit.ly/2CH2nlp ( This is just for the example )
+
+3. GlotPress Account
+
+You can download the already translated files of your language from our Glotpress account from here: https://translate.cartflows.com/glotpress/projects/
+Steps to include the files are:
+1. Visit the above-provided link and select the plugin name Free Or Pro.
+2. Search for your language and click on it. 
+3. Scroll to the bottom of the page and export the files. You need .mo & .po files to translate the strings in the plugin. Check this image for the reference: https://cl.ly/c87522258a3f
+
+
+Let me know how it goes and feel free to get in touch in case you need more help. 
+
+
+========================================================================================================================================================
+
+Cart Abandonment Sale/Descriptio/working message
+
+Hello,
+
+If you want to add the popup to capture the email address of the user to send the email if he abandons the cart with the help of your page builder and you can add the form on it. Also, you have to write the custom code to send the email but this will work. 
+
+Hence, to solve this we have released a new plugin called "WooCommerce Cart Abandonment Recovery'. You can download it from here: https://wordpress.org/plugins/woo-cart-abandonment-recovery/
+
+This will automatically capture the user's email id from the checkout page and it will show you that user's info into your wp-admin backend. 
+
+Also, this plugin will help you to schedule the cart abandonment emails and this will be automatically sent to the abandoned user after the certain time which you have set in the email template. Also in the abandoned email, the user will get the checkout page link where his products will be automatically added in the cart/checkout page to make him easier to make a purchase. 
+
+I hope this will help you. 
+
+Feel free to get in touch in case you need more help. 
+
+
+========================================================================================================================================================
+
+Short/Welcome Msgs
+
+Welcome to the CartFlows Support!
+
+
+How may I help you?
+
+
+Thank you for your confirmation!
+
+Thank you for getting in touch with us!
+
+Thank you for contacting CartFlows Support!
+
+Thank you for providing the login details!
+
+Thank you for pointing it out!
+
+
+Let me know your thoughts on this.
+
+Let me know how it goes.
+
+Let me know in case you face any issues.
+
+
+Looking forward to solving it ASAP.
+
+Looking forward to serving you more.
+
+
+Your patience & co-operation will be much appreciated.
+
+Feel free to get in touch with us in case you have more questions.
+
+
+Please expect a delay due to the holiday.
+
+Let me know your thoughts on this and please expect a delay due to the weekend.
+
+Sorry for the delay in response due to the holiday.
+
+
+If you have any other questions, just let me know, and I'll be happy to help. And have a fantastic day!
+
+Can you share the screenshot or the video of it so that I can understand it better? 
+
+========================================================================================================================================================
+
+
+
+
+
+
+
+
+
+Nice Feed back received from the users
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-04_19-03-21.png
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-05_12-31-30.png
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-10_10-15-06.png
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-11_21-30-25.png
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-12_16-27-57.png
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-17_18-15-18.png
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-19_10-03-09.png
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-25_18-51-12.png
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-26_10-55-17.png
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-29_15-20-58.png
+- http://screenshots.sharkz.in/sarang/2019/05/2019-05-02_20-34-21.png
+- http://screenshots.sharkz.in/sarang/2019/05/2019-05-03_20-18-22.png
+- http://screenshots.sharkz.in/sarang/2019/05/2019-05-23_16-39-46.png
+- http://screenshots.sharkz.in/sarang/2019/05/2019-05-29_12-45-02.png
+- http://screenshots.sharkz.in/sarang/2019/05/2019-05-29_20-20-29.png
+- http://screenshots.sharkz.in/sarang/2019/05/2019-05-30_14-48-35.png
+- http://screenshots.sharkz.in/sarang/2019/06/2019-06-05_15-24-22.png
+- http://screenshots.sharkz.in/sarang/2019/06/2019-06-06_10-02-57.png
+- http://screenshots.sharkz.in/sarang/2019/06/2019-06-06_15-50-53.png
+- 
+
+
+Revisions to keep 
+http://screenshots.sharkz.in/sarang/2019/04/2019-04-05_19-37-28.png => https://wordpress.stackexchange.com/questions/240935/is-it-possible-to-set-custom-post-type-revision-limit-inside-the-theme-files
+
+
+Bad reply said by sandesh and eventually blasted on me.
+- http://screenshots.sharkz.in/sarang/2019/04/2019-04-29_16-52-59.png
+- 
+
+
+- Shubhangi's RESPONSES...
+http://screenshots.sharkz.in/sarang/2019/04/2019-04-11_21-22-09.png 
+http://screenshots.sharkz.in/sarang/2019/04/2019-04-16_16-20-20.png
+
+- Strange Replies
+- http://screenshots.sharkz.in/sarang/2019/05/2019-05-29_12-48-45.png
+
+
+https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2369 - Test Email
