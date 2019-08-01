@@ -264,7 +264,7 @@ Let me know your thoughts on this.
 
 ========================================================================================================================================================
 
-Refund Message
+Refund Message 1
 
 Hello,
 
@@ -277,6 +277,20 @@ In the future, I would love it if you give our product another try for any other
 On another note - if you have any feedback, suggestions for us, we would love to hear that.
 
 Have a great day ahead.
+
+========================================================================================================================================================
+
+Refund Message 2
+
+Hello,
+
+﻿That's really sad that our CartFlows didn't meet up to your expectation. If you don't mind, can you please let us know what exactly drove you for refund.
+
+Is there any problem you faced while using the CartFlows, if you have faced the problem then please let me know I will give my 100% to solve it for you.
+
+We really care about our product and need your feedback so that we can make our service and product more flexible for each of the user.
+
+Let us know your thoughts!
 
 ========================================================================================================================================================
 
@@ -380,6 +394,63 @@ Feel free to get in touch in case you need more help.
 
 ========================================================================================================================================================
 
+403 Error
+
+Apologize for the incovenience.
+
+Here is a screenshot of your issue - https://imgur.com/81zXYqq
+
+The problem is, that request is Receiving a 403 response for CartFlows pages and not for WooCommerce pages. This is the reason WooCommerce is working and CartFlows not.
+
+Receiving a 403 response is the server telling you, "I'm sorry. I know who you are–I believe who you say you are–but you just don't have permission to access this resource. Maybe if you ask the system administrator nicely, you'll get permission. But please don't bother me again until your predicament changes."
+
+In summary, a 403 Forbidden response should be used afterward, when the user is authenticated but isn't authorized to perform the requested operation on the given resource.
+
+Probably due to the following reasons,
+1. If you are using a firewall plugin.
+2. The host is not allowing that request for other pages than WooCommerce.
+3. Cache plugins or server-side cache.
+
+Can you please confirm with a host? Show them the above screenshot. They will help you exclude the CartFlows pages.
+
+I hope this helps you. Let me know once your host provider replies to you.
+
+Thanks for your patience.
+
+
+========================================================================================================================================================
+
+Review given
+
+Thank you for giving the awesome review and the five-star ratings.
+
+Your nice words definitely will increase our confidence and this will helps to solve & help more users by providing quick solutions and interesting features. 
+
+Let me tell you one good feature that we will be releasing and that is Pre-Checkout upsell this will support all the payment gateways as the current checkout process with the bump order is working. 
+
+I hope this will excite you to try it, we are planning to release it in the next week.
+
+I am happy that I was able to help you and feel free to open a new ticket if you face any other issues. I will there to help you out. 
+
+have a great day.
+
+
+========================================================================================================================================================
+
+Assigned to the developer
+
+Hello,
+
+Thank you for sharing the FTP details of your site. 
+
+Let me tell you that, I have assigned your ticket to one of our developers and he is trying to replicate the issue at his end with the help of the setting that is been made on your site. 
+He will try some code at his and then will try it on your staging site. So as soon as he will find the cause of this then he will get back to you soon.
+
+Your patience & co-operation is much appreciated. 
+
+
+========================================================================================================================================================
+
 Short/Welcome Msgs
 
 Welcome to the CartFlows Support!
@@ -457,6 +528,9 @@ Nice Feed back received from the users
 - http://screenshots.sharkz.in/sarang/2019/06/2019-06-05_15-24-22.png
 - http://screenshots.sharkz.in/sarang/2019/06/2019-06-06_10-02-57.png
 - http://screenshots.sharkz.in/sarang/2019/06/2019-06-06_15-50-53.png
+- https://cl.ly/ccf138120562
+- https://cl.ly/3749644b8a42
+- https://cl.ly/496acfc20a42
 - 
 
 

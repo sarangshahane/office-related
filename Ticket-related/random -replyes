@@ -402,7 +402,101 @@ I hope this clarify you.
 
 Looking forward to hearing from you. 
 
+====================================================================================================================================================== 
 
-.wcf-embed-checkout-form .woocommerce-checkout #order_review_heading{
-	display:none;
-}
+Hello,
+
+Welcome to the CartFlows!
+
+Please find the answers to your questions below.
+
+1. Are the templates being updated?
+=> Yes, we update the templates whenever and whatever it is necessary. Also, it do updates if some changes are suggested internaly.
+
+2. Are the templates proven to be an effective funnel? Or should I actually build from scratch? If so, is there any tutorial on how to build an effective funnel with cartflows?
+=> Currently, we are using one of our template of the CartFlows on the our website too. So far, it is performing good. But, you can also import the ready-made template & modify them using the page builder to save your time instead of starting it from the scratch. 
+We have a youtube channel where we post the video for education purpose. Here is the link of it: https://www.youtube.com/channel/UCEdXT5pEI_Vbd5te5v7sOpQ
+
+Also, we have a documentation section, here is a link of our docs: https://cartflows.com/docs/
+
+
+3. I noticed that direct transfer is not supported for upsell/downsell, would it be implemented in the future? Or is it not suggested to use direct transfer for a funnel?
+=> Currently, it is not supported but we have it in a plan to integrate it to add the support for the Upsell & Downsell. Currently we have taken the authorize.net on priority for the integration. If we get more user requests for the direct transfer then we will surely prioritize it.
+
+
+4. Should I rename the URL to the product's name? Like ".com/towel-landing-page", ".com/towel-upsell", etc. Do you have a better suggestion?
+=> Yes, you need change the URL of the page. to give the name of your choise to your page then you can change the permalink for that page. Check this image for the reference: https://cl.ly/efd0c629716b
+
+5. Do we have a tutorial hub for Cartflows for more in-depth guides?
+=> We have a youtube channel where we post the video for education purpose. Here is the link of it: https://www.youtube.com/channel/UCEdXT5pEI_Vbd5te5v7sOpQ
+
+Also, we have a documentation section, here is a link of our docs: https://cartflows.com/docs/
+
+6. If I have multiple products for sale, is it better to have one funnel for each of them and send traffics to them instead of the standard woocommerce shop page?
+=> Instead of creating a multiple funnels for each and every single product is time consuming, but to reduce this time you can set the CartFlows checkout page as a Global Checkout. This option will replace your default WooCommerce's checkout page with the CartFlows Checkout. Which will change your checkout process as follows:
+
+	1. Shop Page -> Where all the products will be listed.
+	2. Cart Page -> Here the products will be displayed which are added by the user.
+	3. Checkout page -> This page will be of CartFlows, b'caz, it is been set as a Global Checkout. User will proceed for the order from this page.
+	4. Upsell/Downsell -> If these offers pages are availabe then the user will be redirected to these pages after the checkout is complete.
+	5. Thank you page -> Here all the order Summary will be displayed. 
+
+======================================================================================================================================================
+
+Hello,
+
+Thank you for contacting us!
+
+Please find the answers to your questions below.
+
+#1. For the first Page of the checkout, is it possible to only collect First Name, Last Name, Phone # ?
+=> Yes, you can collect only the First Name, Last Name & the Phone number, but if you are giving the user to make the payment using the PayPal gateway then the PayPal needs the email id to initiate the transaction. 
+
+You can disable the fields from the Checkout page setting available in the backend from the custom fields tabs. Enable the Custom field editor and disable the fields that you don't want by clicking on the eye icon. This will remove the fields from the checkout page. 
+
+2. Is there a progress bar available and shown during the check out process?
+=> I am sorry, but currently it is not available, but still, if you need it then you can add it by using another plugin and if your page builder does have this feature then you can add it. 
+
+#3. On the Address + Credit Card Info Page, is it also possible to add a “checkbox” so that a customer can manually check for recurring billing because we are selling a recurring billing @ $299 per month for our membership site?
+=> I am sorry, but currently, it is not available, but there is another way. You can create the two products the first product is having the full payment & the second is having the recurring payment. If the user adds the recurring product then he will be charged in a recurring manner. 
+
+#4. How would we integrate the form data captured by Cart Flows with our online merchant?
+=> I am not sure that I understand your question fully, but it seems that you need to send the users info to your CRM for further process or sending an email then you need a separate plugin which will capture the data from the checkout page and send it to your CRM. You need to integrate that plugin with the WooCommerce. Because the CartFlows works on the WooCommerce base and uses the same checkout fields of the WooCommerce.
+
+I hope this will clarify you.
+
+Please feel free to get in touch in case you have more questions. 
+
+======================================================================================================================================================
+
+
+1. Customer access the site and request for a quote for a professional service.
+=> Users can still access and open a request for the quote from the services section and the serveice can be add to cart.
+2. Store owner will create a new order through woocommerce.
+3. Send new order notification email to customer through woocommerce.
+
+4. Add new order to a specific customer cart. 
+
+5. Customer click on the link to pay from email and direct customer to cart/checkout page. Customer also can login to the site and will see the order in the cart.
+6. Customer have the option to add coupon code to get discount. (Coupon code is linked to affiliate )
+7. Customer can proceed to checkout page and make the payment.
+8. Update woocommerce order with the order status.
+9. tracking and monitoring the abounded orders 
+
+
+So, to get the quote for a professional service then you need to use the another plugin which will work with the WooCommerce and can generate the quotes.
+
+Users can still access and open a request for the quote from the services section and the serveice can be add to cart. After cart the user will be redirected to the checkout page where store manager has already added the required product on checkout page from the backend setting. 
+
+After the user visited the checkout page, he will add his billing details and procees for the payment and the new order will be automatically created and the order summary & the order will be mailed to both the store manager & the user who just purchased the service.
+
+
+Also, you can create as many flows you want in the CartFlows. For example, there total 5 services and you can create the 5 flows/checkout pages for each of the services and redirect the user to their respective checkout page. Otherwise you can set the CartFlows Checkout page as a global checkout, so that all your services will be listed on the shop page of the WooCommerce and user will pick whichever he wants then proceed to the Cart page after that to the Checkout page of the CartFlows after that if the upsell & downsell is present will be displayed else will be redirected to the thank you page for for displaying the order summary. 
+
+Also, we have released a new plugin called as WooCommerce Cart Abandonment Recovery. You can download it from here: https://wordpress.org/plugins/woo-cart-abandonment-recovery/
+
+This will automatically grab the abandonmened user's data and will display it them into the dashboard so that you can schedue the emails to recover them back. 
+
+I hope this clarifies you. 
+
+Please let me know in case you need more clarification.

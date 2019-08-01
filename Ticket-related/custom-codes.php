@@ -263,6 +263,20 @@ function vi_do_not_store_persistance_data(){
 	retun $allow;
 }
 
+============================
+/**
+ * Force WooCommerce terms and conditions link to open in a new page when clicked on the checkout page
+ *
+ * @author   Golden Oak Web Design <info@goldenoakwebdesign.com>
+ * @license  https://www.gnu.org/licenses/gpl-2.0.html GPLv2+
+ */
+function st_woocommerce_checkout_terms_and_conditions() {
+  remove_action( 'woocommerce_checkout_terms_and_conditions', 'wc_terms_and_conditions_page_content', 30 );
+}
+add_action( 'wp', 'st_woocommerce_checkout_terms_and_conditions' );
+
+============================
+
 // All other custom codes with respect to Astra and other plugins
 
 // Change the place order button on checkout page. 
