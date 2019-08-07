@@ -688,5 +688,19 @@ function in_redirect_add_to_cart() {
 // }
 
 
+// Call the function.
+add_action( 'woocommerce_product_query', 'sa_show_only_sale_products' );
+
+// Function with the logic.
+function sa_show_only_sale_products( $query ){
+
+	// Get only those products which are on the sale.
+    $product_ids_on_sale = wc_get_product_ids_on_sale();
+
+    // set it in the query to return those products only.
+    $query->set( 'post__in', $product_ids_on_sale );
+}
+
+
 
 
