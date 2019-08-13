@@ -4674,8 +4674,21 @@ Reply Only
 8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3688
 9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3716
 10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3702
-11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/798
-12 
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/798  - Review Given
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3789
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3811
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3827
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3390
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3845
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3849
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3853
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3854
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3846
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3808
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3828
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3812
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3806
+26 
 
 
 
@@ -4683,6 +4696,187 @@ Task Link																					Issue Was
 
 1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2378 [3]	- Custom code given to add the product name image in the order review section.
 2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3822 [3]	- Flatsome UX builder is not opening on the CartFlows steps because the edit button was not showing.
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3791 [3]	- License is not getting activate on the multisite.
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3701 [3]	- Custom code given to change the strings & the button color.
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3818 [3]	- Custom code given to change the placeorder button text for per checkout page.
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 08-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2378
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3716
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3791
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3828
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3701
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3751 - WPML
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3845 - Review
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3698
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3846
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3673
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3858
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3866
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3873
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3874
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3870
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3876
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3877
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3881
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3733
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/798 - How to Split test the two flows.
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3806
+22 
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3812 [3]	- Name Fields are optional.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3869 [3]	- Klarna payment is redirecting to the Default woocommerce page
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 09-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3883
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3900
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3905
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3909
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3911
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3792
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3845
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3818
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3812
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3877
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3874 - for review
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/1252
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3881
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3155
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3923
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3922
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3921
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3920
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3919
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3917
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3926
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3530
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3620
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3716
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3701
+26 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3923
+27 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/1441
+28 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3766
+29 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2660
+30 
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3855 [3]	- Custom Code give to change the URL of specific product and redirect to the custom URL.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3892 [3]	- Midtrans not working for the default checkout process.
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3907 [3]	- 500 Error Message.
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3898 [3]	- Inline CSS was affecting the UI of the two step layout. 
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3910 [3]	- CSS conflict with the woo-checkout-on-popup-free plugin.
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 12-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3905
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2660
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3766
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2331
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3806
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3620
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3898
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3716
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3909
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3892
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3912
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3981
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3959
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3961
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3952
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3982
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3943 [3]	- WooCommerce Multicurrancy not working for the Order Bump.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3633 [3]	- General Setting is not getting saved for the multisite setup.
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3686 [3]	- Payment failed on the upsell page for PayPal.
+
+
+
+https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3977 - HOP BALL
+
+
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 13-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3923
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3912
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3518
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3961
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3982
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3959
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4015
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4001
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3986
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4000
+11 
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976 [3]	- UABB
+2  
+
+
+
+https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976
+
+
+
+	
 
 
 
@@ -4695,48 +4889,9 @@ Task Link																					Issue Was
 
 
 
-Need following changes in the website
-
-- Need a menu in the website's header menu as FAQs & link them to its perticular section
 
 
 
-Need Documents on the following
-- How to activate the License of the CartFlows Pro
-- How to troubleshoot the conflict with the Plugin & the theme.
-- How to import/export the templates of Elementor, DIVI, Beaver Builder, Thrive.
-- How to modify the Checkout page using the setting provided in the backend. (Checkout field editor, Checkout designs & other)
-- Placing the shortcode at the right places for the CartFlows.
 
+https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3878 - 4th time redund
 
-
-Hello,
-
-Welcome to the CartFlows Support!
-
-Please find the answers to your question below
-
-1. How do I add their website without them seeing my license key? I can't see that option on CartFlows dashboard. I don't want to give them the license either. I'm worried they could distribute it.
-=> If you want to add the website in your account at my.cartflows.com then you need to install the CartFlows Pro zip on that other site and add the license & activate this will automatically add that website into your list at my.cartflows.com account. 
-
- 2. When I add them, will they see the license...like I can see it from my WordPress dashboard?
-=> If you logged into their site and install the plugin by entering the license then it will not be visible to anyone after successful activation. 
-
- 3. Will they be able to delete my website from the CartFlows dashboard?
-=> No, CartFlows Dashboard is present in your account at my.cartflows.com so they will not have the access of it and cannot delete it. 
-
- 4. If I delete a website from my dashboard, can I revoke their right to use my license permanently?
-=> If you delete their site from your my.cartflows.com account then they will not get the updates of that plugin and their plugin status will be deactivated also they will not able to import the ready-made pro templates.
-
-I hope this clarify you.
-
-Feel free to get in touch in case you have more questions. 
-
-
-
-cartflows@philanthonydesigns.com
-
-Q2FydEZsb3dzQDEyMw==
-
-
-https://cl.ly/756b0010e2e7

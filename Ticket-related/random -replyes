@@ -518,3 +518,47 @@ Could you please walk me through what you did to make the cart page fields visib
 It is important for me to understand what I am doing wrong so that, in the future, I am able to correct this on my own.  
 
 I very much appreciate your time, advice and service. Thanks again for your assistance.  Looking forward to hearing from you.  Have a good one! 🙂🙂
+
+======================================================================================================================================================
+
+1. Yes, we would like your help to customize the CSS Code for the heading on the checkout.
+=> Here is the custom code to change the string of on the checkout page. Please add the below code into your child theme's functions.php file at the very end of it.
+
+// Function with the main logic.
+function wc_billing_field_strings( $translated_text, $text, $domain ) {
+    switch ( $translated_text ) {
+        case 'Billing details' :
+            $translated_text = __( 'Informations', 'woocommerce' ); // You can add your text here. Just replace the "Informations" text with your text
+            break;
+
+        case 'Your order' :
+            $translated_text = __( 'Votre commande', 'woocommerce' ); // You can add your text here. Just replace the "Votre commande" text with your text
+            break;
+    }
+    // Return the all the strings.
+    return $translated_text;
+}
+// Triguer the action
+add_filter( 'gettext', 'wc_billing_field_strings', 20, 3 );
+
+
+
+2. For the button code, we do not have that specific option on the buddyboss theme. The golden color applies for a lot of features, so we cannot change it.
+=> Yes it is possible to overwrite with the custom CSS code. Below is the custom CSS code for it. Please add it into your theme's customizer -> Under additional CSS tab. 
+
+.cartflows_step-template .woocommerce-checkout #payment #place_order{
+	background-color: #00bb80;
+}
+
+
+
+3. We have enabled APPLE PAY in the stripe/woocommerce options, but it seems to not appear on the checkout form. Is it normal ?
+=> I am not sure that, have you verified the domain to enable the Apple pay on the checkout page from the Stripe's dashboard? Also, is it displaying on the default checkout page? 
+
+Here is an article which can help you to enable & verify the setting for the apple pay: https://docs.woocommerce.com/document/accepting-apple-pay-woocommerce/
+
+I hope this helps you .
+
+Please let me know how it goes.
+
+

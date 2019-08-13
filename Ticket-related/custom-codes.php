@@ -703,4 +703,158 @@ function sa_show_only_sale_products( $query ){
 
 
 
+// Add the extra checkout option from the custom code
 
+add_filter( 'cartflows_checkout_meta_options', 'change_place_order_button_text_default', 10, 2 );
+
+function change_place_order_button_text_default( $checkout_fields, $post_id ){
+
+	$checkout_fields['wcf-checkout-place-order-text']   = array(
+		'default'  => '',
+		'sanitize' => 'FILTER_DEFAULT',
+	);
+
+	return $checkout_fields;
+}
+
+add_action( 'cartflows_checkout_style_tab_content', 'tab_style_checkout_button_text' );
+
+/**
+ * Tab style
+ *
+ * @param array $options options.
+ * @param int   $post_id post ID.
+ */
+function tab_style_checkout_button_text( $options ) {
+
+	if( function_exists('wcf') ){
+		
+		echo "<div class='wcf-cs-button-texts'>";
+
+		echo wcf()->meta->get_text_field(
+			array(
+				'label' => __( 'Place Order button Text', 'cartflows-pro' ),
+				'name'  => 'wcf-checkout-place-order-text',
+				'value' => $options['wcf-checkout-place-order-text'],
+				'attr'  => array(
+					'placeholder' => __( 'Place Order button Text', 'cartflows-pro' ),
+				),
+			)
+		);
+
+		echo '</div>';
+	}
+}
+
+// Add the extra checkout option from the custom code
+
+
+// Change the place order button text for different checkout pages
+
+
+// Add action to run to run the function.
+add_filter( 'woocommerce_order_button_text', 'woo_custom_order_button_text' ); 
+
+// Function.
+function woo_custom_order_button_text() {
+
+	global $post;
+	
+	$post_id = $post->ID;
+
+	if( 'cartflows_step' === $post->post_type ){
+
+		switch ( $post_id ) {
+			case '1737':
+				
+				return __( 'Your Button Text', 'woocommerce' ); 
+
+				break;
+			// === if you want to add the more condition then copy-paste this block of code and change the post id infront of the case word.=== 
+			case '1741':
+				
+				return __( 'Your Button Text', 'woocommerce' ); 
+
+				break;
+			// === if you want to add the more condition then copy-paste this block of code and change the post id infront of the case word.=== 			
+			default:
+				
+				return __( 'Place Order', 'woocommerce' ); 
+
+				break;
+		}
+	}
+    
+    return __( 'Place Order', 'woocommerce' ); 
+
+}
+// Change the place order button text for different checkout pages
+
+
+// Change the URL of the specific product from the shop page. 
+
+// Trigure the action.
+add_filter( 'woocommerce_loop_product_link', 'da_change_product_permalink_shop', 99, 2 );
+ 
+// Function with the main redirect logic.
+function da_change_product_permalink_shop( $link, $product ) {
+	
+	// Get the current product id.
+	$this_product_id = $product->get_id();
+	
+	// add the condition cases for the product which you want to set the custom URL.
+	switch ($this_product_id) {
+
+		// Repeat this code from here to add more custom URL for the products.
+		case 99:
+			$link = 'add_your_landing_page_url_here';
+			break;
+		// Repeat this code from here to add more custom URL for the products.
+		
+		// case your_product_id:
+		// 	$link = 'add_your_landing_page_url_here';
+		// 	break;
+
+		// case your_product_id:
+		// 	$link = 'add_your_landing_page_url_here';
+		// 	break;
+				
+		default:
+			return $link;
+			break;
+	}
+
+	return $link;
+}
+
+// Change the URL of the specific product from the shop page. 
+
+
+<script type="text/javascript">
+	// Initiate jQuery Function to register all the logic.
+	jQuery( function($) {
+
+		// Get the mobile width.
+		var mobile_width = $(window).width();
+
+		// Check for the mobile width.
+	    if ( mobile_width <= 320 || mobile_width <= 360 || mobile_width <= 480 ){
+	  		
+	  		// Get each product boxs.
+	  		var product_box = $('ul.products').find('li.ast-article-post');
+
+	  		// Logic for moving each product title before the Image in only mobile view.
+
+		  	$( product_box ).each(function( $this ) {
+		  		var $this = $(this),
+		    		p_title = $this.find('.astra-shop-summary-wrap a.ast-loop-product__link'),
+		    		p_image = $this.find('.astra-shop-thumbnail-wrap .woocommerce-loop-product__link'); 
+		  		
+		  		// Move the title before the image in that box.
+		    	p_title.insertBefore( p_image );
+		  		
+		  	});
+	  	}
+
+	} );
+</script>
