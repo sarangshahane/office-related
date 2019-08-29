@@ -73,6 +73,29 @@ function remove_avada_conflict_actions(){
 		remove_action( 'woocommerce_before_checkout_form', array( $avada_woocommerce, 'before_checkout_form' ) );
 	}	
 }
+
+// Triger the action
+add_action( 'wp', 'add_default_woocommerce_coupon_field' );
+
+function add_default_woocommerce_coupon_field(){
+
+	// Get theme instance.
+	global $avada_woocommerce;
+
+	// Get current post type.
+	$post_type = get_post_type();
+
+	// Check for the post type condition.
+	if( 'cartflows_step' === $post_type ){
+
+		//Remove the modified coupons form.
+		remove_action( 'woocommerce_before_checkout_form', array( $avada_woocommerce, 'checkout_coupon_form' ), 10 );
+		
+		// Add the default coupons form.
+		add_action( 'woocommerce_before_checkout_form', 'woocommerce_checkout_coupon_form', 10 );
+	}
+}
+
 ==================================================================================================== 
 
 add_action( 'wp', 'change_variation_position' );
@@ -858,3 +881,54 @@ function da_change_product_permalink_shop( $link, $product ) {
 
 	} );
 </script>
+
+<-- Change the order review title from product to course -->
+jQuery(document).ready(function(){
+  
+    jQuery(".cartflows_step-template .woocommerce-checkout-review-order-table").find("thead tr th.product-name").text("Coursesss");
+});
+<-- Change the order review title from product to course -->
+
+
+//add_action( 'woocommerce_thankyou', 'set_cancel_url' );
+
+function set_cancel_url( $order_id ){
+	global $post, $wp;
+
+	$post_type = $post->post_type;
+
+	$order = wc_get_order($order_id); //<--check this line
+
+    $orderstat = $order->get_status();
+
+    print $orderstat;
+    die();
+	if( 'cartflows_step' === $post_type && 'thankyou' === get_post_meta( $post->ID, 'wcf-step-type', true ) ){
+
+		if( $orderstat === 'failed' ){ // completed, pending, processing, cancelled, refunded
+
+			$URL = 'add_your_full_URL_here_if_the_orde_is_fail';
+
+			wp_redirect( $URL );
+
+		}
+	}
+}
+
+/* Steps to integrate the one-click with the CartFlows*/
+1. We have provided an array of supported payment gateways. You need to add a payment gateway here with the class which will be required later.
+  File - "cartflows-pro/classes/class-cartflows-pro-gateways.php"
+
+2. Then goto "cartflows-pro/modules/gateways"
+  - You need to add your gateway class file here.
+
+3. In "process_offer_payment" we actually charge for the upselling products. You one click upsell code will go here.
+
+4. You can refer to the COD and PayPal gateway class file for further reference. It will give you a better idea.
+
+If you need any new action, filter then let us know we will add it.
+
+We need to work closely to achieve it. I am happy to help you.
+
+Looking forward to hearing from you.
+/* Steps to integrate the one-click with the CartFlows*/

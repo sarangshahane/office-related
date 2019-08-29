@@ -4860,7 +4860,17 @@ Reply Only
 8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4001
 9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3986
 10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4000
-11 
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3812
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3993
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4003
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4005
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4006
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4008
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4013
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4016
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4020
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4026
+21 
 
 
 
@@ -4868,30 +4878,635 @@ Reply Only
 Task Link																					Issue Was
 
 1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976 [3]	- UABB
-2  
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3984 [3]	- Product variation checkbox was unable to click
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3962 [3]	- Upsell without reference transaction.
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3979 [3]	- Upsell is not displaying for the PayPal.
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3892 [3]	- order-pay Page was not found error due to the default WooCommerce pages was not set. 
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3943 [3]	- Currency Conversion is not working for the bump order.
 
 
 
 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976
+https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4014 -Hoop Ball
+https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4018 -Hoop Ball
+
+
+	74.220.219.26
+https://cl.ly/0d737480ae24
 
 
 
-	
-
-
-
-
-
-
-
-
-
-
+u: cartflowsFlywheel
+p: YWZ0ZXJtYXRoNw==
 
 
 
 
+
+========================================================================================================================================================
+
+
+Date : 14-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4013
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4005
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2825
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4008
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4001
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3961
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3518
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4043
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4047
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4035
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4048
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4050
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4032
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3892
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3993
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4061
+17 
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4045 [3]	- 500 Server error
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976 [3]	- UABB query optimized.
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3812 [3]	- Checkout fields are optional in the lite plugin, default checkout page is not getting loaded, Product is not getting added in the cart. Cart Page is not found.
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4006 [3]	- PayPal Express checkout pop-up is not opening on both the checkout pages and js error from the PayPal gets geerated in the Console.
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3979 [3]	- PayPal is not redirecting to the Upsell Or Thank you page instead it is going to cart page.
+
+
+
+
+
+
+https://cl.ly/5f8a2066cbdc
+https://cl.ly/f3103d6ffd36
+https://cl.ly/6704d01d0339
+https://cl.ly/9aad2bc468e5
+https://cl.ly/f78306dc1a88
+
+
+
+cartflows@girltalkwithfo.com
+YWZ0ZXJtYXRoNw==
 
 
 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3878 - 4th time redund
 
+
+
+
+========================================================================================================================================================
+
+
+Date : 16-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3923
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4061
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3981
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4035
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3541
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2182
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3518
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4032
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4068
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4075
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4077
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4095
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4091
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3869
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4101
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4081
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4013
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4107
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4108
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4113
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4114
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4115
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4116
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4064
+26 
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4043[3]		- License is not getting activated due to the database cache, CDNs
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3701[3]		- Checkout page is not displaying with the BuddyBoss child theme.
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4073[3]		- Activate license popup is not opening due to JS errors in multisite.
+4  
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 19-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4092
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4132
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3461
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4142
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4145
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4146
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4148
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4149
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4150
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4152
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4007
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4159
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4160
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4168
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4169
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4172
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4173
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4174
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4175
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4085
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4176
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4178
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4179
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4076
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4101
+26 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4073
+27 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2182
+28 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3979
+29 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3869
+30 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4157 [3]	- Astra's label as placeholder compatibility added.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4151 [3]	- Custom JS code given to change the order review column title froom product to course.
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4153 [3]	- Genesis Theme conflict with the Default page template. Side removed for the post type.
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4164 [3]	- Order is getting cancled using the stripe. Cache is in place.
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 20-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2660
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4176
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3232
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3880
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4013
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/874
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2890
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4145
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4149
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4148
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4146
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4159
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4178
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4085
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4179
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4164
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3922
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/798
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4152
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3869
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4198
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4193
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4192
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4191
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4189
+26 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4180
+27 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4182
+28 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4163
+29 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4187
+30 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4200
+31 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4202
+32 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4205
+33 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4121 - Learndash
+34 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4206
+35 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4201
+36 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4208
+37 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4210
+38 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4211
+39 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4213
+40 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4214
+41 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3633
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3701 [3] 	- 500 Server Error due to child theme.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4075 [3]	- Unable to receive the Update Notification
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4195 [3]	- Astra's Label as Placeholder compatibility added & zip provided
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4184 [3]	- Divi builder is not loading.
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 21-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4222
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4224
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4225
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2660
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4174
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4013
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3979
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3880
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4214
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4159
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/798
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4208
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4210
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4211
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4205
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4085
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3922
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3869
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4164
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4145
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4132
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3943
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4073
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3733
+26 
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4075 [3]	- Unable to receive the CartFlows Pro update. Multiple cache.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3701 [3]	- 500 server error if switched to child theme.
+
+
+https://cl.ly/87aa3f5c9ea6
+
+
+
+https://cl.ly/e80f4047edec
+https://cl.ly/f51164f14f60
+https://cl.ly/c5e2ccb878c0
+https://cl.ly/46e46868f471
+
+WP Portfolio
+HappyAddons	
+WP Fusion Lite
+Premium Addons PRO
+
+
+========================================================================================================================================================
+
+
+Date : 22-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4230
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4013
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4206
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3701
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4213
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4145
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4085
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4159
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4184
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4193
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3880
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4211
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3979
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4207 - WPML
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4229
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4234
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4241
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4242
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4248
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4262
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4008
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4261
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4260
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4035
+26 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3588
+27 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4205
+28 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4253
+29 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4226
+30 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3996
+31 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3923
+32 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4254
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4073 [3]	- Network site is not setup correctly.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4173 [3]	- Custom code provided to remove the customized coupons field.
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4075 [3]	- Unable to receive the updates. 
+4  
+
+
+https://cl.ly/3a94a500dfe9
+
+
+
+========================================================================================================================================================
+
+
+Date : 23-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4271
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4275
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4276
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4280
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4284
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3923
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4226
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4073
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4115
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2890
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3701
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3996
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4262
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3586
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4081
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4285
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4277
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4292
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4288
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4287
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4286
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4291
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4193
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4296
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4248
+26 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3979
+27 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4278
+28 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2306
+29 
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4277 [3]	- Setup wizard not displaying.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976 [3]	- bump order calculation is getting wrong
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3880 [3]	- Product is not getting properly added in the order.
+4  
+	
+
+
+1208 Movie => 1208/4 =  302 Per Head.
+
+2672 Food & Drink => 2672/5 = 534 Per Head.
+
+
+534 ( Food & Drink ) + 302 ( Movie ) = 836 We owe this to Sandesh.
+
+https://cl.ly/65759dd4ac99
+https://cl.ly/2b1279faff3b
+https://cl.ly/f056b6efa635
+https://cl.ly/d538a82852cd
+
+Premium Addn for elementor
+wp fusion lite
+Toolbar Extras
+Premmerce Pro
+Woo Gateway Paguelo Facil Recurrentes
+Premium Addons PRO
+Premmerce Pro
+WooCommerce Admin
+UpdraftPlus - Backup / Restore
+
+
+Website: franbizacademy.com
+
+Email: support@cartflows.com
+username: cartflows_support
+password: aftermath7
+
+Wordpress admin access invite 1: https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4289
+Wordpress admin access invite 2: https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4290
+
+Activate Account : https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4293
+
+Other : 
+1. https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4294
+2. https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4295
+
+
+
+Blinking arrow options
+
+BuildWoofunnels options. 
+
+Enable arrow if yes then show dropdown for animate it or not. No color options for the arrow. They are loading the blinking image.
+
+7f5d78d595a9c949d5a8ae3a89a2743a23d6eda1
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 26-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4159
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/798
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4164
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2660
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3979
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4073
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4285
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4277
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3679
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4291
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4296
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2306
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4299
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4310
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4321
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4258
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4333
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4337
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4338
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4339
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4304
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4287
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4262
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3490
+26 
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3880 [3]	- Different products was getting added.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4301 [3]	- Extra admin menu was getting added for the setup wizard
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4298 [3]	- Two Different Vat Charges are displaying
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4311 [3]	- Simple Exclude Plugin conflict
+
+
+
+========================================================================================================================================================
+
+
+Date : 27-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/798
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4310
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3490
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4339
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4230
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4337
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3996
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3518
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4352
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3605
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4355
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4356
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4358
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4361
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4362
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3922
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4299
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3880
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4277
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4301
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4298
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4354
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4164
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3979
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4304
+26 
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3976 [3]	- Bump orde product is not shoing modified sales price.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4330 [3]	- Unable to edit the checkout page using the elementor because of the JS errors. 
+3  
+
+
+https://cl.ly/c56df00e0476
+https://cl.ly/44dc3d7d284a
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 28-08-2019 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4368
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4370
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4376
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4365
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4379
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4381
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4388
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4389
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4390
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4392
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4396
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4397
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4398
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3605
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3996
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4299
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4301
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/798
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3922
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4330
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4075
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4355
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4352
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3650
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3490
+26 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4298
+27 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4374
+28 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4393
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4387 [3]	- Theme CSS Conflict
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3812 [3]	- Checkout fields are optional  
+
+
+https://cl.ly/592243c91a93
+https://cl.ly/5ed16543e8de
+
+
+
+
+
+https://cl.ly/5e92aa3168c5
+
+
+
+========================================================================================================================================================
+
+
+Date : 29-08-2019 
+
+
+Reply Only
+
+1  
+
+
+
+
+Task Link																					Issue Was
+
+1  

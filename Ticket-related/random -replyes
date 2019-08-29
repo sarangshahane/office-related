@@ -562,3 +562,97 @@ I hope this helps you .
 Please let me know how it goes.
 
 
+======================================================================================================================================================
+
+
+1. How to let users edit their cart inside checkout? So they can change the quantity of the product.
+=> Actually it is not possible to edit the Cart on the checkout page of the CartFlows but you can select the product in the backend of the checkout page setting and enable the Product variation option and just enable the quantity option. This will display the products on the page with the quantity selector.
+
+2. How to display shipping info? Not only I want them to know the shipping time but I also want them to choose one or multiple shipping option.
+=> To display the multiple shipping option then you need to add the shipping methods in the WooCommerce -> Settings -> Shippin Tab -> Select onne of your shipping zone -> Add shipping method. This will automatically display the Shipping methods on the checkout page. 
+Here is the video on it to give you an idea on it: https://www.youtube.com/watch?v=Sm9W1f9YtpA
+
+3. How to collect sales taxes?
+=> You need to enable the tax setting from the WooCommerce -> Settings -> General Tab -> Enable taxes section and enable the checkbox for it. This willadd the Tax tab above. Goto tab tab and add your tax rates. Now, While creating the product add the price of the product accourding to your tax settings.
+
+I hope this clarify you.
+
+Please let me know in case you have more questions.
+
+======================================================================================================================================================
+
+
+Hello,
+
+Please find the answers to your questions below.
+
+1. My order bump has 2 variations, how do I include both of them? When I tried it, it just auto selects the first variation.
+=> If you select the variation product in the Order Bump then it will automatically take the first vatiation. Because we have't added the full support of the variation product in the bump order, but we have it in a plan to add it. Due to the some technical difficulties and the compatibility issues we haven't added it. But it will be added in the future.
+
+
+2. I applied discounts when I created the products. It doesn't appear on CF and wouldn't want to further discount them.
+=> If you want to apply the discount on the checkout then you can auto appy the coupon from the checkout page backend setting.
+Check this image for the reference: https://i.imgur.com/G6U8Aib.png
+
+
+3. PayPal doesn't show as a pop up. It fills as the entire page.
+=> If you want to display the PayPal in the popup then you need to use the PayPal Express Checkout plugin.
+You can download that plugin from here: https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/
+
+
+4. The picture of my order bump doesn't appear on phone.
+=> We have intensionlly hiden the order bump order in the mobile view for the mobile responsiveness. If you want to enable it then please add the below CSS into your child theme's styles.css file or in the customizer -> Under additional CSS tab.
+
+@media only screen and (max-width: 768px){
+	.wcf-bump-order-style-1 .wcf-bump-order-offer-content-left {
+		display:block;	
+	}
+	.wcf-embed-checkout-form-one-column .wcf-bump-order-style-1 .wcf-bump-order-offer-content-left,
+	.wcf-embed-checkout-form-one-column .wcf-bump-order-style-2 .wcf-bump-order-offer-content-left{
+		width:100%;
+	}
+	.wcf-bump-order-style-1 .wcf-bump-order-offer-content-left img,
+	.wcf-bump-order-style-2 .wcf-bump-order-offer-content-left img{
+		padding: 0 20px;
+	}
+}
+
+5. How do I change quantity of bump order products?
+=> As of now it is not possible to change the quantity of the order bump product. We have it in a to-do list. But, as stated above due to some technical difficulties it is not added yet. In the future updates we wil be definately going to add it.
+
+
+6. I have a gift to attach to every item but I don't know if the way I attached it is okay. Could you please take a look and give me your professional opinion?
+=> Can you please give the the URL of the page where exactly you have attached the gifts. So, that I can understand it better.
+
+
+7. Adam, this is not CF's doing but I need your help pleaseeeeee..
+
+I want to use AliExpress shipping but I don't want the duration of shipping to show. I also don't want words like AliExpress and E-packet showing. I already "muted" those words in my WooCommerce but it still shows.
+
+What else can I do about it?
+
+=> I am not sure where exactly this displys, but if you can provide the screenshot or the URL where I can see it then it will help me to give you the suggestions on it. 
+
+8. This is another big one: I want to use PayPal to capture credit card payments without the customer logging in to PayPal. I have tried a video I saw online but it didn't work.
+=> If you are using the paypal express checkout payment gateway then you can set it from the backend setting of the paypal express checkout. To change it goto WooCommerce -> Settings -> Payments Tab -> PayPal Checkout -> Navigate to "PayPal-hosted Checkout Settings" Heading and change the Landing page setting to Billing ( Non-PayPal Account ) option.
+
+Check this image for the reference: https://cl.ly/54607089f420
+
+Here is an article on it too: https://docs.woocommerce.com/document/paypal-express-checkout/
+
+I hope this clarify you.
+
+======================================================================================================================================================
+
+﻿1. ﻿I would like to know that in the cart abandonment plugin?
+﻿=> Cart abandonment plugin is used to capture the user's cart and send them a follow-up emails to complete the purchase after they abandon the checkout process in a half way that is on the checkout page. 
+﻿
+﻿2 ﻿If I set up a coupon in the plugin setup will it be automatically added to the customer checkout page? without to write the coupon code?
+﻿=> As of now, if you enter the coupon name in the setup wizard then that coupon will be auto created and it will be added in the email but it will not be auto applied on the checkout page. The use will have to add it manually by simple copying it and pasting it on the checkout page.
+We are working on it to auto apply that coupon and propably it will be released in the next release. 
+﻿
+3. ﻿Should I create this coupon in the WooCommerce setting before I set it up in the abandonment cart plugin or will it be created when I just set up in the plugin?
+﻿=> You can also create that coupon in the WooCommerce settings and then add it in the emails to sent it to the user. Then the user can just copy - Paste it to use it on the checkout page. 
+
+Please let me know in case you have more questions.
+
