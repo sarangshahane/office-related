@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base target="_blank">
+    <style>
+        p{
+          margin: 0px 0px 8px;
+        }
+
+        h5{
+          font-size: 14px;
+          margin: 5px 0;
+        }
+
+        .hoverLink{
+          color: rgb(93, 125, 174); 
+          font-size: 12px; 
+          text-decoration: none;
+        }
+
+        .hoverPointer{
+          position: absolute; 
+          padding-top: 12px; 
+          right: 30px; 
+          width: 20px; 
+          height: 20px;
+        }
+
+        .hoverPointer:hover {
+            cursor: pointer;
+        }
+
+        .hoverLink:hover {
+            text-decoration: underline;
+            color: #5d7dae;
+            cursor: pointer;
+        }
+        
+        .hoverLink:visted {
+            color: #5d7dae;
+        }
+
+        .extension-wrap{
+          color: rgb(78, 86, 101);
+          font-family: HelveticaNeue, Helvetica, Arial, "Lucida Grande", sans-serif;
+          font-size: 12px;
+          margin: 0px auto;
+          padding: 0px;
+          min-width: 400px;
+        }
+
+        .extension-content{
+          font-size: 14px; 
+          line-height: 14px; 
+          padding: 14px 12px;
+        }
+
+        .ext-nav{
+          background-color: rgb(246, 247, 248);
+          border-bottom: 2px solid rgb(217, 217, 217);
+          font-size: 16px;
+          height: 70px;
+          line-height: 45px;
+          padding: 12px;
+          position: relative;
+          top: 0px;
+          width: auto;
+          max-width: 100%;
+          display: flex;
+          z-index: 10;
+        }
+        .ext-logo-wrap{
+          width: 55px;
+        }
+        .ext-logo-wrap img{
+          width: 55px;
+        }
+        .ext-name-heading{
+          line-height: normal;
+          margin-left: 10px;
+        }
+        .ext-name{
+          font-size: 14px; 
+          font-weight: bold;
+        }
+
+        .submit-button {
+          outline: none;
+          border: none;
+          padding: 10px 15px;
+          color: #fff;
+          margin-top: 10px;
+          box-shadow: 0px 2px 5px -2px #333;
+        }
+
+        .submit-button:active {
+          box-shadow: 0px 2px 5px -4px #333;
+        }
+
+        .display-flex{
+          display: flex;
+          width: 100%;
+          padding: 10px 0;
+        }
+        
+        .display-flex h5{
+          flex: 1;
+        }
+
+        .text-left{
+          text-align: left;
+        }
+
+        .text-right{
+          text-align: right;
+        }
+
+    </style>
+    <title>Support Ticket Helper</title>
+
+</head>
+
+<body tabindex="1" style="margin: 0;">
+   
+    <div>
+        <div class="extension-wrap">
+            <div class="ext-nav">
+                
+                <div class="ext-logo-wrap">
+                  <img src="images/ext-icon.png" >
+                </div>
+                
+                <div class="ext-name-heading">
+                  <span class="ext-name">Support Ticket Helper</span>
+
+                    <br>
+                    <a class="hoverLink" href="https://developers.facebook.com/docs/ads-for-websites/pixel-troubleshooting" target="_blank">
+                      <span>Learn More</span>
+                    </a>
+                    <br>
+                    <a class="hoverLink" href="#" target="_blank">
+                      <span>Author: Sarang A. Shahane</span>
+                    </a>
+                </div>
+
+                <!-- <div class="hoverPointer">
+                  <img src="img/popout_button.jpg">
+                </div> -->
+            </div>
+            <div class="extension-content">
+                <div class="ext-overview display-flex">
+                  <h5 class="text-left">Tickets Replied: <span>10 </span></h5>
+                  <h5 class="text-right">Tickets visited: <span>11 </span></h5>
+                </div>
+                
+                <!-- <p>
+                  <span>Tickets  </span>
+                </p> -->
+
+                <button class="submit-button" id="changeColor">Change the Color</button>
+            </div>
+            <div></div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="popup.js"></script>
+
+</body>
+
+</html>

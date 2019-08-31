@@ -1,0 +1,29 @@
+{
+
+  "manifest_version": 2,
+  "name": "Store the URL of Ticket",
+  "version": "1.0",
+  "description": "Collect your ticket URL & the subject of the Ticket and send it to your Google Excel Sheet.",
+  "permissions": ["activeTab", "declarativeContent","storage"],
+  "background": {
+    "scripts": ["js/store-url.js"],
+    "persistent": true
+  },
+  "page_action": {
+    "default_popup": "index.html",
+    "default_icon": {
+        "16": "icon/s-icon.png",
+        "32": "icon/s-icon.png",
+        "48": "icon/s-icon.png",
+        "128": "icon/s-icon.png"
+      }
+  },
+  "icons": {
+    "16": "icon/s-icon.png",
+    "32": "icon/s-icon.png",
+    "48": "icon/s-icon.png",
+    "128": "icon/s-icon.png"
+  }
+  
+
+}
