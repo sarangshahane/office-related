@@ -1,0 +1,13 @@
+I am a Developer of the CartFlows WordPress Plugin. One of our customers is using the CartFlows & the Braintree Payment Gateway. Below is the case when he use it on the CartFlows Checkout page. 
+
+CartFlows is having the two custom post types, cartflows_step & cartflows_flow. This is happening for the cartflows_step.
+
+If you want to reproduce the issue then you can do it with our free plugin & here is the link to download: https://wordpress.org/plugins/cartflows/
+
+When we activate the payment "direct bank transfer" and "payal" we have no problem with Braintree.
+
+On the other hand, if we activate the " Braintree CC Gateway ", the display is bad, and we have several card option that appears in the checkout. Same option several times.
+
+I need to find the solution to this scenario so that both of our mutual customers will free to use our plugins.
+
+Looking forward to hearing from you.

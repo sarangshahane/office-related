@@ -1,0 +1,11 @@
+Settings for the TranslatePress plugin
+- Goto Settings ( Left-hand Side menu ) -> TranslatePress -> General Tab
+	- Select the default language
+	- Add the new languages that you wish to translate your website in.
+	Check this image for the reference: https://cl.ly/2ce47b91571d
+
+Steps for the translate the CartFlows Pages using the TranslatePress
+- Open the Step/page of the CartFlows that you want to translate
+- Click on the Translate Page button on the admin bar. https://cl.ly/06e1b8fc0edc
+- Click on the strings that you want to translate. https://cl.ly/48dcb95261ab
+- Add your translated string and click save button. https://cl.ly/2263eddd2de7

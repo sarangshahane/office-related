@@ -260,7 +260,30 @@ Invalid License ID
 
 Usually, this error comes when WordPress fails to generate the instance key while validating the license. This issue is temporary and can be solved by just deactivate the plugin & re-activate it.
 
+﻿Also, if you are using any cache plugin then can you please try clearing the cache and disable the cache plugin too. Sometimes this blocks to update the instance ID.
+
 Let me know your thoughts on this. 
+
+========================================================================================================================================================
+
+Can't Activate the License
+
+﻿Hello,
+
+I am sorry that you are not able to activate the license of your copy. Don't worry, I will help you with this.
+
+Can you please tell me, are you using any cache plugins? If yes, then this is might be due to cache & can be easily solved!
+
+Usually, the instance required to activate the license gets cached along with the JS and the Ajax requests which are required to validate the License. Thus the response received after validation call does not stored properly and this issue occours.
+
+So can you please try the below steps 
+1. Clear the cache﻿﻿ & deactivating that Cache plugin.
+2. Deactivate the CartFlows Pro plugin & re-activate the CartFlows Pro.
+3. Enter the License to activate it.
+
+If you still face the same issue then please provide the wp-admin login details so that I can take a look.
+
+Let me know how it goes.
 
 ========================================================================================================================================================
 
@@ -270,7 +293,7 @@ Hello,
 
 Thank you for your feedback.
 
-I'm so sorry see you go. I've assigned your refund request to our store manager. He will get back to you soon. 
+I'm so sorry to see you go. I've assigned your refund request to our store manager. He will get back to you soon. 
 
 In the future, I would love it if you give our product another try for any other projects you might have in mind.
 
@@ -288,9 +311,25 @@ Hello,
 
 Is there any problem you faced while using the CartFlows, if you have faced the problem then please let me know I will give my 100% to solve it for you.
 
-We really care about our product and need your feedback so that we can make our service and product more flexible for each of the user.
+We really care about our product and need your feedback so that we can make our service and product more flexible for each of the users.
 
 Let us know your thoughts!
+
+========================================================================================================================================================
+
+Cannot Refund!
+
+Hello,
+
+Thank you for contacting us!
+
+I am sorry to say but the time period to refund is over and it is no longer eligible for reimbursement. Because your first purchase was originally made on 8th July 2019.
+
+We do offer a 30 day guarantee period which begins on your first purchase date as outlined in our refund policy page, thus this transaction is no longer eligible for reimbursement.
+
+See our return policy as outlined here https://cartflows.com/refund-policy/
+Please feel free to get in touch in case you have any questions.
+
 
 ========================================================================================================================================================
 
@@ -317,6 +356,11 @@ Feel free to get in touch in case you have more questions.
 ------------------------------------------------------------------
 I have added this payment gateway integration into our suggestion list. If we get more request from the users then we will prioritize it.
 ------------------------------------------------------------------
+
+This will automatically work for the default checkout process on the CartFlows checkout page including the Bump order, pre-checkout offer. But if you want to offer the Upsell & downsell to the user then it will not work because we haven't added the custom support for this payment gateway in the CartFlows.
+﻿
+﻿We have it in our payment gateway list and it will be added in the future once we have finished the required features. If we get the more request for this then we will priotize it.
+﻿
 
 ========================================================================================================================================================
 
@@ -451,6 +495,54 @@ Your patience & co-operation is much appreciated.
 
 ========================================================================================================================================================
 
+Refund Requested on FB message
+
+﻿Thank you for contacting us!
+﻿
+I am sorry but you need to open a support ticket to request for the refund as because this is the Facebook messager and mainly used to solve the pre-sale & minor technical issues on the go.
+﻿
+﻿If you open a support ticket then that will be handled by our support member and processed for the refund process.
+
+So, can you please open a support ticket form the given link with the same email id from which you have purchased the Pro version.
+
+Link to open a support request is ﻿https://cartflows.com/support/open-a-ticket/
+﻿
+Feel free to get in touch in case you need more help.
+
+========================================================================================================================================================
+
+Cancel Yearly Subscription.
+
+Hello,
+
+Thank you for contacting us! 
+
+Yes, you can cancel the auto-renewall of the CartFlows Pro but that is on the request. So, I have considered this email as a request and assigned your 
+request to our store manager. He will help you with the further process.
+
+Please let me know in case you have more question or need more assistance.
+
+I would be happy to help you.
+
+
+
+========================================================================================================================================================
+
+Export the Flows & Steps UI
+
+
+For more information, please check the below steps.﻿﻿﻿﻿﻿
+
+- Export the ﻿﻿ ﻿flows by clicking the export button on the flow
+- Go to each step one-by-one open that step in the page builder and export the UI.
+﻿- Now go to your new site and first import your flow. This will create the steps & settings.
+﻿- Now open the newly created step in the same page builder and import the UI JSON which you have exported in step 2.
+﻿
+﻿Please let me know how it goes.
+
+
+========================================================================================================================================================
+
 Short/Welcome Msgs
 
 Welcome to the CartFlows Support!
@@ -500,6 +592,54 @@ Can you share the screenshot or the video of it so that I can understand it bett
 
 ========================================================================================================================================================
 
+/* Steps to integrate the one-click with the CartFlows*/
+1. We have provided an array of supported payment gateways. You need to add a payment gateway here with the class which will be required later.
+  File - "cartflows-pro/classes/class-cartflows-pro-gateways.php"
+
+2. Then goto "cartflows-pro/modules/gateways"
+  - You need to add your gateway class file here.
+
+3. In "process_offer_payment" we actually charge for the upselling products. You one click upsell code will go here.
+
+4. You can refer to the COD and PayPal gateway class file for further reference. It will give you a better idea.
+
+If you need any new action, filter then let us know we will add it.
+
+We need to work closely to achieve it. I am happy to help you.
+
+Looking forward to hearing from you.
+/* Steps to integrate the one-click with the CartFlows*/
+
+========================================================================================================================================================
+
+How to get the access to the SkillJet
+
+Please follow below steps - 
+
+1. Visit this page - https://skilljet.io/private-access-cartflows/
+2. Enter your registered CartFlows email address to receive a generate password link.
+3. Check your inbox for the email.
+4. Visit the given link in email & generate a new password for your account.
+5. Then login from here to access SkillJet courses - https://skilljet.io/login
+6. Welcome to aboard!
+
+If you have any other questions, just let me know, and I'll be happy to help. And have a fantastic day!
+
+========================================================================================================================================================
+
+No access to the Skilljet!
+
+Thanks for contacting us!
+
+If you have purchased CartFlows on or before 19th November 2019 then only you will get access to SkillJet.
+
+I hope it helps. 
+If you have any other questions, just let me know, and I'll be happy to help. 
+
+Have a fantastic day!
+
+========================================================================================================================================================
+
 
 
 
@@ -535,7 +675,48 @@ Nice Feed back received from the users
 - https://cl.ly/f2debbfc847a
 - https://cl.ly/bb75edd74886
 - https://cl.ly/dd3a945fd0eb - No complaints
+- https://cl.ly/b60bb1c31061
+- https://cl.ly/909c7e02b967
 - 
+
+
+What to do? 
+
+- https://cl.ly/8ba04176dc8d
+- https://cl.ly/3b2a771536d7
+- https://cl.ly/7eca3c3b7cc8
+- https://cl.ly/51c79cbc9487 - Always assigns his tickets to me. Why?
+- 
+
+
+Not my side
+- https://cl.ly/bb24daeb32ca => But told him already -> https://cl.ly/66c999f534ac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Revisions to keep 
@@ -562,9 +743,41 @@ https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/236
 tikit asave tikitasarkhe nakot nustya gappa,
 Tyat asave solution sagle, nakot nustya shivya!
 
-Tikita magun tikit yave nakot nustya raangaa,
-Tyatun vhava bodh sagla nakot nakot nustya shanka!
+Tikita magun tikit yave, nakot nustya raangaa,
+Tyatun vhava bodh sagla, nakot nakot nustya shanka!
 
 
 
 https://cl.ly/b7ec35a1babb
+
+
+
+Help Ninja Issues
+- Icons are not displaying properly => https://cl.ly/f7fe435e2d58 But after opening that email the icons are not displaying properly => https://cl.ly/217d8fefd248
+
+- 
+
+
+https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3381 - Gabrayele Elementor not working
+
+
+
+function jayche_ka($drinks){
+	
+	switch ($drinks) {
+	case 'Tea':
+		return 'chal mag';
+		break;
+
+	case 'Coffee':
+		return 'Tuch Jaa.';
+		break;
+	
+	default:
+		return 'Khup kaam aahe aani busy pn aahe. aata nako..';
+		break;
+	}
+
+}
+
+echo jayche_ka( '' );

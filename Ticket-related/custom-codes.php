@@ -74,6 +74,46 @@ function remove_avada_conflict_actions(){
 	}	
 }
 
+==================================================================================================== 
+
+// Remove extra html Jupiter Theme conflict
+add_action( 'wp', 'remove_jupiter_conflict_actions' );
+
+function remove_jupiter_conflict_actions(){
+
+	global $post;
+
+	$post_type = get_post_type();
+
+	$page_template = get_post_meta( $post->ID, '_wp_page_template', true );
+
+	if( 'cartflows_step' == $post_type && 'cartflows-canvas' === $page_template || 'cartflows-default' === $page_template ){
+		remove_action( 'wp_footer', 'mk_get_single_post_prev_next' );
+	}	
+}
+
+==================================================================================================== 
+
+// Remove extra html NaturLife Theme conflict
+add_action( 'wp', 'remove_naturalife_conflict_actions' );
+
+function remove_naturalife_conflict_actions(){
+
+	global $post;
+
+	$post_type = get_post_type();
+
+	$page_template = get_post_meta( $post->ID, '_wp_page_template', true );
+
+	if( 'cartflows_step' == $post_type && 'cartflows-canvas' === $page_template || 'cartflows-default' === $page_template  ){
+
+		remove_action( "wp_footer","rtframework_popup_search", 1 );
+		remove_action( "wp_footer","rtframework_popup_share", 1 );
+		remove_action( "wp_footer","rtframework_side_panel", 10 );
+	}	
+}
+
+
 // Triger the action
 add_action( 'wp', 'add_default_woocommerce_coupon_field' );
 
@@ -316,9 +356,9 @@ add_action( 'wp', 'st_woocommerce_checkout_terms_and_conditions' );
 // 	return $translated_text;
 // }
 
-// add_filter( 'cartflows_show_coupon_field', 'hide_it' );
+// add_filter( 'cartflows_show_coupon_field', 'ed_hide_coupon_field' );
 
-// function hide_it(){
+// function ed_hide_coupon_field(){
 // 	return false;
 // }
 
@@ -379,48 +419,54 @@ add_action( 'wp', 'st_woocommerce_checkout_terms_and_conditions' );
 //     }
 // }
 
+add_filter( 'cartflows_autocomplete_zip_data', 'web_disable_the_auto_zipcode');
+
+function web_disable_the_auto_zipcode(){
+	return no;
+}
+
 // Autofill checkout fields from user data provided from the 
-// add_filter( 'woocommerce_checkout_fields' , 'prefill_billing_fields' );
+add_filter( 'woocommerce_checkout_fields' , 'mi_prefill_billing_fields' );
 
-// function prefill_billing_fields ( $address_fields ) {
+function mi_prefill_billing_fields ( $address_fields ) {
 
-//     // Get the data from the URL
-// 	if ( isset( $_GET['fname'] ) || isset( $_GET['lname'] ) || isset( $_GET['email'] ) ) 
-// 	{
-// 	// wp_die();
-//         $fname = isset( $_GET['fname'] ) ? esc_attr( $_GET['fname'] ) : '';
-//         $lname = isset( $_GET['lname'] ) ? esc_attr( $_GET['lname'] ) : '';
-//         $em    = isset( $_GET['email'] ) ? esc_attr( $_GET['email'] ) : '';
+    // Get the data from the URL
+	if ( isset( $_GET['fname'] ) || isset( $_GET['lname'] ) || isset( $_GET['email'] ) ) 
+	{
+	// wp_die();
+        $fname = isset( $_GET['fname'] ) ? esc_attr( $_GET['fname'] ) : '';
+        $lname = isset( $_GET['lname'] ) ? esc_attr( $_GET['lname'] ) : '';
+        $em    = isset( $_GET['email'] ) ? esc_attr( $_GET['email'] ) : '';
 
 
-//         // First Name
-// 	    if( isset($_GET['fname']) && ! empty($_GET['fname']) ){
-// 	    	if( isset( $address_fields['billing']['billing_first_name'] ) ){
+        // First Name
+	    if( isset($_GET['fname']) && ! empty($_GET['fname']) ){
+	    	if( isset( $address_fields['billing']['billing_first_name'] ) ){
 
-// 	        	$address_fields['billing']['billing_first_name']['default'] = $fname;
-// 	    	}
-// 	    }
+	        	$address_fields['billing']['billing_first_name']['default'] = $fname;
+	    	}
+	    }
 
-// 	    // Last Name
-// 	    if( isset($_GET['lname']) && ! empty($_GET['lname']) ){
-// 	        if( isset( $address_fields['billing']['billing_last_name'] ) ){
+	    // Last Name
+	    if( isset($_GET['lname']) && ! empty($_GET['lname']) ){
+	        if( isset( $address_fields['billing']['billing_last_name'] ) ){
 
-// 	        	$address_fields['billing']['billing_last_name']['default'] = $lname;
-// 	        }
-// 	    }
+	        	$address_fields['billing']['billing_last_name']['default'] = $lname;
+	        }
+	    }
 
-// 	    // Email
-// 	    if( isset($_GET['email']) && ! empty($_GET['email']) ){
-// 	        if(isset( $address_fields['billing']['billing_email'] )){
+	    // Email
+	    if( isset($_GET['email']) && ! empty($_GET['email']) ){
+	        if(isset( $address_fields['billing']['billing_email'] )){
 
-// 	        	$address_fields['billing']['billing_email']['default'] = $em;
-// 	        }
-// 	    }
+	        	$address_fields['billing']['billing_email']['default'] = $em;
+	        }
+	    }
         
-//     }
+    }
 
-//     return $address_fields;
-// }
+    return $address_fields;
+}
 
 // add_action( 'wp_footer', 'remove_conflict_actions' );
 
@@ -849,9 +895,24 @@ function da_change_product_permalink_shop( $link, $product ) {
 
 	return $link;
 }
-
 // Change the URL of the specific product from the shop page. 
 
+
+add_filter("woocommerce_cart_item_subtotal", "display_discount_price", 10, 3);
+function display_discount_price($product_price, $cart_item, $cart_item_key)
+{
+    $regular_price = wc_price( $cart_item['data']->get_regular_price() );
+    if( $product_price != $regular_price )
+    {
+    if(isset( $cart_item['cartflows_bump'] ) && 1 == $cart_item['cartflows_bump'])
+        {
+       $product_price = wc_format_sale_price( $cart_item['data']->get_regular_price(), $cart_item['custom_price'] );
+    }else{
+       $product_price = wc_format_sale_price( $cart_item['data']->get_regular_price(), $cart_item['data']->get_sale_price() );
+    }
+    }
+    return $product_price;
+}
 
 <script type="text/javascript">
 	// Initiate jQuery Function to register all the logic.
@@ -932,3 +993,134 @@ We need to work closely to achieve it. I am happy to help you.
 
 Looking forward to hearing from you.
 /* Steps to integrate the one-click with the CartFlows*/
+
+/* Custom code to apply the variation from the URL*/
+jQuery(window).load(function(){
+    jQuery.urlParam = function (name) {
+        var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.search);
+
+            return (results !== null) ? results[1] || 0 : false;
+    }
+
+    results = jQuery.urlParam('prod');
+
+    console.log('result'+results);
+
+    if(results){
+        jQuery('#wcf-item-product-'+results).click();
+    }
+});
+/* Custom code to apply the variation from the URL*/
+
+/* Custom css to highlight specific variation */
+
+.wcf-embed-checkout-form .wcf-product-option-wrap .wcf-qty-row:nth-child(2){
+	background-color: #F6E100;
+	margin: 0 -10px;
+	padding: 10px 10px;
+	box-shadow: 0px 3px 9px -3px #555;
+}
+
+.wcf-embed-checkout-form-two-step .wcf-qty-options .wcf-item{
+	flex:6;
+}
+
+.wcf-embed-checkout-form-two-step .woocommerce-checkout .wcf-product-option-wrap .wcf-qty-options .wcf-qty{
+	display:none;
+}
+
+/* Custom css to highlight specific variation */
+
+/* Add Extra div in the variation box to display the image */
+	
+	// JS code 
+	jQuery(document).ready(function() {
+
+	    var wcf_row = document.querySelectorAll('.wcf-qty-options .wcf-qty-row');
+		var first_row = wcf_row[0],
+			second_row = wcf_row[1];
+			
+		jQuery(second_row).find('.wcf-item').append("<div class='extra-div'></div>");
+
+	});
+	// JS code 
+
+	// CSS Code
+	.wcf-embed-checkout-form .wcf-product-option-wrap .wcf-qty-options .wcf-item .extra-div::after{
+	    content:url("add_your_image_full_path");
+	}
+	// CSS Code
+
+/* Add Extra div in the variation box to display the image */
+
+/* Disable the DIVI icons only on the CartFlows Pages*/
+jQuery(document).ready(function(e){
+	if( cartflows ){
+			if( jQuery('body').hasClass('et_button_icon_visible et_button_custom_icon')){
+				jQuery("body").removeClass("et_button_icon_visible et_button_custom_icon");
+			}
+	}
+});
+/* Disable the DIVI icons only on the CartFlows Pages*/
+
+/* Get User's License Key */
+add_action( 'admin_head', function() {
+    
+    if( ! isset( $_GET['debug'] ) ) {
+        return;
+    }
+    
+    echo '<pre>';
+    print_r( get_option( 'wc_am_client_cartflows_api_key' ) );
+    echo "</pre>";
+
+    wp_die();
+});
+/* Get User's License Key */
+
+a992b5a28386e564032c83fabd944bd6918665d1
+
+
+.cartflows_step-template-default .clearfix{
+	padding-top:0px !important;
+}
+
+
+.cartflows_step-template-default .single-post-media{
+	display:none;
+}
+
+.cartflows_step-template-default .container{
+	width:100%;
+	padding:0px;
+}
+
+.wcf-embed-checkout-form .woocommerce-checkout .col2-set, 
+.wcf-embed-checkout-form .woocommerce-checkout .wcf-col2-set{
+	width:55% !important;
+}
+
+@media only screen and (max-width: 768px) {
+	.wcf-embed-checkout-form .woocommerce-checkout .col2-set, 
+	.wcf-embed-checkout-form .woocommerce-checkout .wcf-col2-set{
+		width:100% !important;
+	}	
+}
+
+
+/**
+* Filter to change the Cron time which is set to auto-complete the order status.
+*/
+add_filter( 'cartflows_order_status_cron_time', 'is_wcf_set_cron_time' );
+
+/*
+* Function to return the cron time in minutes.
+*/
+function is_wcf_set_cron_time(){
+
+    // Set your cron time in minutes.
+    $updated_cron_time = "add_your_cron_time_in_minutes";
+    
+    // Return the cron time from the function.
+    return $updated_cron_time;
+}

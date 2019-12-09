@@ -1,0 +1,42 @@
+Below are the question also for this
+
+1. How CartFlows Works with PayPal & Stripe
+=> CartFlows supports Supports PayPal Standard & PayPal Express Checkout & Stripe.
+
+	I. PayPal Standard : 
+		Below are the things that is necesary to accept the payments
+		- Enable PayPal Standard Checkbox
+		- Enable PayPal sandbox checkbox if you want to enter the test payment disable it when you want to accept the live payment.
+		- Enable logging Checkbox to record any error if occoured.
+		- Enable IPN email notifications
+			- If you are enabling the IPN email notifications then you must have to enter the "PayPal identity token"
+		- Set Payment action to "Capture" option.
+		- enter API credentials
+			- Enter Sandbox API credentials for sandbox if testing mode is enabled
+			- Enter Live API credentials want to accept the live payment.
+		For more info : https://docs.woocommerce.com/document/paypal-standard/
+	
+	II. PayPal Express Checkout:
+		Below are the things that is necesary to accept the payments
+		- Enable PayPal Checkout Checkbox
+		- Set the Environment to live/sandbox
+		- Add the sandbox/live API Credentials to accept the payment.
+		- In "Advanced Settings" Section enable the Debug Log.
+		For more info : https://docs.woocommerce.com/document/paypal-express-checkout/
+
+	III. Stripe:
+		Below are the things that is necesary to accept the payments
+		- Enable Stripe checkbox
+		- Enable Test mode mode if want to test the payment.
+		- Add Live/Test Publishable Key
+		- Add Live/Test Secret Key
+		For more info : https://docs.woocommerce.com/document/stripe/
+
+
+FAQs.
+
+1. Does the user have to activate auto-redirect on PayPal account after payment so that it should be redirected to the upsell?
+=> No, not compulsary.
+
+2. Does the user have to add the identity token to the woocommerce's PayPal settings?
+=> Yes, if the IPN email notifications is enabled.

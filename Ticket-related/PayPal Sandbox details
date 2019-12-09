@@ -12,6 +12,8 @@ Own OFC:
 
 Accounts: 
 
+Main Account Email ID: sarangs@bsf.io
+
 1. sarangs-facilitator@bsf.io
 
 2. sarangs-buyer@bsf.io
@@ -25,32 +27,18 @@ Sandbox API signature : AKGqiD9OpjlxVIn6rhtztPr0e1ZBA54tSFkgHs-WHBhRIGKXsGn1EUXv
 
 Security token : -mRtXarW-U-W39obaSEHhGfd9VU_rD1jWy9MLyVeoIMX5KuA-vXxt-7Q9DC
 
-mirapadhiary@gmail.com
+Stripe Details:
 
-One Time Offer x4 Dog Seat Belt 6303
+Test publishable Key: pk_test_MoAj3Fzu5ZOx7Y6jjmArcSyA00NJPy5qD4
+Test Secret Key: sk_test_iYAMbsOz9fsmvOc64DkToEgU00XE78ZwUI
+----------
 
+New Test publishable Key: pk_test_z6EhJfej0zoDGk72Fw7Q2Hmd00ddiRRpAS
+New Test Secret Key: sk_test_Aj6TJjFuKaTa36twCq4dKbN500i7Xd9B1J
 
 
 alex@daveyandkrista.com
 
 
-Hello, 
 
-Thank you for your patience!
-
-I was able to login to your staging site and made the settings in the PayPal Standard's setting. Now your PayPal Standard & the PayPal Checkout Payment gateway both are working on the staging site. 
-
-Also, I found that you were using the WP Rocket plugin for the cache, and it was causing the issues. It was blocking some JS from loading and that is why the PayPal checkout was not loading properly on the upsell page but it was taking too much time to load. 
-
-I have fixed both the payment gateways here is the working video of it: https://cl.ly/d0e2736bf905
-
-Here are the settings which you have to make in order to make it work on the live site.
-1. https://cl.ly/a77393454ce0
-2. https://cl.ly/ba1a27d34509
-
-You need to apply the exact setting on the live website & disable the WP Rocket or exclude the CartFlows pages from the local & server cache.
-
-I Hope this helps.
-
-Please let me know how it goes and feel free to get in touch in case you need more help.
 
