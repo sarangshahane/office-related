@@ -2,6 +2,7 @@ My Encoded Password:
 Decoded: Sarang@123
 Encoded: U2FyYW5nQDEyMw==
 
+==============================================================================================
 Receiver email: sarangbusiness321@gmail.com
 
 Sandbox API username : sarangbusiness321_api1.gmail.com
@@ -23,9 +24,12 @@ Main Account Email ID: sarangs@bsf.io
 
 Sandbox API username : sarangs-facilitator_api1.bsf.io
 Sandbox API password : LYUATJRCN5AJHRHD
+
 Sandbox API signature : AKGqiD9OpjlxVIn6rhtztPr0e1ZBA54tSFkgHs-WHBhRIGKXsGn1EUXv
 
 Security token : -mRtXarW-U-W39obaSEHhGfd9VU_rD1jWy9MLyVeoIMX5KuA-vXxt-7Q9DC
+
+==============================================================================================
 
 Stripe Details:
 
@@ -36,9 +40,34 @@ Test Secret Key: sk_test_iYAMbsOz9fsmvOc64DkToEgU00XE78ZwUI
 New Test publishable Key: pk_test_z6EhJfej0zoDGk72Fw7Q2Hmd00ddiRRpAS
 New Test Secret Key: sk_test_Aj6TJjFuKaTa36twCq4dKbN500i7Xd9B1J
 
+==============================================================================================
 
 alex@daveyandkrista.com
 
 
+
+
+==============================================================================================
+
+Authorize.net Sandbox Account
+Screenshot : https://cl.ly/44da8828e8cf
+
+Login ID: sarangsbsf123/sarangs@bsf.io
+Password: Sarang@123
+
+API Login ID:	7Ch95h4tRhQX
+Transaction Key: 5E2J958S3F6aq3z6
+Signature Key:03261943CD7C829D3D8BA64AC3A7BD0C614F885F307D2FC984827DAB8D9941A79A5711D2D8C392966612D44E2356279FAA588F7DC0403D7213E951C2DF7AADA8
+
+
+
+==============================================================================================
+
+Klarna Test Credentials
+
+Test username: PN00764_99eb11cf12a6
+Test password: ECSGYMERmMBq7XGj
+
+==============================================================================================
 
 

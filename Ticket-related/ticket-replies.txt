@@ -686,6 +686,7 @@ What to do?
 - https://cl.ly/3b2a771536d7
 - https://cl.ly/7eca3c3b7cc8
 - https://cl.ly/51c79cbc9487 - Always assigns his tickets to me. Why?
+- https://cl.ly/7dd008c903a4 - Have a happy ticketing.
 - 
 
 
@@ -760,24 +761,3 @@ Help Ninja Issues
 
 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3381 - Gabrayele Elementor not working
 
-
-
-function jayche_ka($drinks){
-	
-	switch ($drinks) {
-	case 'Tea':
-		return 'chal mag';
-		break;
-
-	case 'Coffee':
-		return 'Tuch Jaa.';
-		break;
-	
-	default:
-		return 'Khup kaam aahe aani busy pn aahe. aata nako..';
-		break;
-	}
-
-}
-
-echo jayche_ka( '' );

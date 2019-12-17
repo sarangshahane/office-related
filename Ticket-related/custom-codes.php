@@ -113,6 +113,7 @@ function remove_naturalife_conflict_actions(){
 	}	
 }
 
+==================================================================================================== 
 
 // Triger the action
 add_action( 'wp', 'add_default_woocommerce_coupon_field' );
@@ -286,12 +287,15 @@ function sarang_disable_payment_gateway( $available_gateways ) {
 	return $available_gateways; 
 }
 
+==================================================================================================== 
+
 // Disable the Autocomplete zipcode.
 add_filter( 'cartflows_autocomplete_zip_data', 'wa_disable_autocomplete_zipcode' );
 
 function wa_disable_autocomplete_zipcode(){
 	return 'no';
 }
+==================================================================================================== 
 
 // Remove the Smart Coast Theme conflict
 // Call the function
@@ -316,6 +320,7 @@ function ma_remove_conflict_actions(){
 	}
 }
 
+==================================================================================================== 
 
 add_filter( 'cartflows_allow_persistace', 'vi_do_not_store_persistance_data' );
 
@@ -326,7 +331,7 @@ function vi_do_not_store_persistance_data(){
 	retun $allow;
 }
 
-============================
+==================================================================================================== 
 /**
  * Force WooCommerce terms and conditions link to open in a new page when clicked on the checkout page
  *
@@ -338,92 +343,89 @@ function st_woocommerce_checkout_terms_and_conditions() {
 }
 add_action( 'wp', 'st_woocommerce_checkout_terms_and_conditions' );
 
-============================
+==================================================================================================== 
 
 // All other custom codes with respect to Astra and other plugins
 
 // Change the place order button on checkout page. 
-// add_filter( 'gettext', 'show_custom_button_text', 20, 3 );
-// function show_custom_button_text( $translated_text, $text, $domain ) {
-// 	switch ( $translated_text ) {
-// 		case 'Proceed to PayPal' : // you can remove this if you don't want to change the button text for PayPal
-// 			$translated_text = __( 'Your new Paypal button text here', 'woocommerce' );
-// 			break;
-// 		case 'Place order' : // This text will change for all other firstly with the COD option and for those payment gateways who don't change the text.
-// 			$translated_text = __( 'Your new COD button text here', 'woocommerce' );
-// 			break;
-// 	}
-// 	return $translated_text;
-// }
-
-// add_filter( 'cartflows_show_coupon_field', 'ed_hide_coupon_field' );
-
-// function ed_hide_coupon_field(){
-// 	return false;
-// }
-
-// add_action( 'init', 'check' );
-
-// function check(){
-// 	echo "<pre>";
-// 	var_dump(WC()->countries->get_address_fields( WC()->countries->get_base_country(), 'billing' . '_' ) );
-// }
-
-
-// add_action( 'cartflows_body_top', 'add_gtm_code_below_body' );
-
-// function add_gtm_code_below_body(){
-// 	$field_code = '';
-
-// 	$field_code = "<!-- Google Tag Manager -->
-// 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
-// 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-// 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-// 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-// 	})(window,document,'script','dataLayer','GTM-XXXXXX');</script>
-// 	<!-- End Google Tag Manager --> ";
-
-// 	echo $field_code;
-// }
-
-
-
-// function wc_billing_field_strings( $translated_text, $text, $domain ) {
-//     switch ( $translated_text ) {
-//         case 'Billing details' :
-//             $translated_text = __( 'Billing Info', 'woocommerce' );
-//             break;
-//     }
-//     return $translated_text;
-// }
-// add_filter( 'gettext', 'wc_billing_field_strings', 20, 3 );
-
-// update_option( 'thrive_license', array( 'all' ) );      
-// update_option( 'tve_leads_license_email', 'License Activated');                                                                                                
-// update_option( 'tve_leads_license', 'License Activated');                                                                                                
-// update_option( 'tve_leads_license_status', 'ACTIVE'); 
-
-// add_filter( 'cartflows_show_applied_coupon_message', '__return_false' );
-
-
-
-// add_action( 'template_redirect', 'set_custom_data_wc_session' );
-
-// function set_custom_data_wc_session () {
-//     if ( isset( $_GET['tu_em'] ) || isset( $_GET['tu_name'] ) ) {
-//         $em   = isset( $_GET['tu_em'] )   ? esc_attr( $_GET['tu_em'] )   : '';
-//         $name = isset( $_GET['tu_name'] ) ? esc_attr( $_GET['tu_name'] ) : '';
-
-//         // Set the session data
-//         WC()->session->set( 'custom_data', array( 'email' => $em, 'name' => $name ) );
-//     }
-// }
-
-add_filter( 'cartflows_autocomplete_zip_data', 'web_disable_the_auto_zipcode');
-
-function web_disable_the_auto_zipcode(){
-	return no;
+add_filter( 'gettext', 'show_custom_button_text', 20, 3 );
+function show_custom_button_text( $translated_text, $text, $domain ) {
+	switch ( $translated_text ) {
+		case 'Proceed to PayPal' : // you can remove this if you don't want to change the button text for PayPal
+			$translated_text = __( 'Your new Paypal button text here', 'woocommerce' );
+			break;
+		case 'Place order' : // This text will change for all other firstly with the COD option and for those payment gateways who don't change the text.
+			$translated_text = __( 'Your new COD button text here', 'woocommerce' );
+			break;
+	}
+	return $translated_text;
 }
+
+==================================================================================================== 
+
+add_filter( 'cartflows_show_coupon_field', 'ed_hide_coupon_field' );
+
+function ed_hide_coupon_field(){
+	return false;
+}
+
+==================================================================================================== 
+
+add_action( 'cartflows_body_top', 'add_gtm_code_below_body' );
+
+function add_gtm_code_below_body(){
+	$field_code = '';
+
+	$field_code = "<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-XXXXXX');</script>
+	<!-- End Google Tag Manager --> ";
+
+	echo $field_code;
+}
+
+==================================================================================================== 
+
+function wc_billing_field_strings( $translated_text, $text, $domain ) {
+    switch ( $translated_text ) {
+        case 'Billing details' :
+            $translated_text = __( 'Billing Info', 'woocommerce' );
+            break;
+    }
+    return $translated_text;
+}
+add_filter( 'gettext', 'wc_billing_field_strings', 20, 3 );
+
+==================================================================================================== 
+
+update_option( 'thrive_license', array( 'all' ) );      
+update_option( 'tve_leads_license_email', 'License Activated');                                                                                                
+update_option( 'tve_leads_license', 'License Activated');                                                                                                
+update_option( 'tve_leads_license_status', 'ACTIVE'); 
+
+add_filter( 'cartflows_show_applied_coupon_message', '__return_false' );
+
+==================================================================================================== 
+
+
+add_action( 'template_redirect', 'set_custom_data_wc_session' );
+
+function set_custom_data_wc_session () {
+    if ( isset( $_GET['tu_em'] ) || isset( $_GET['tu_name'] ) ) {
+        $em   = isset( $_GET['tu_em'] )   ? esc_attr( $_GET['tu_em'] )   : '';
+        $name = isset( $_GET['tu_name'] ) ? esc_attr( $_GET['tu_name'] ) : '';
+
+        // Set the session data
+        WC()->session->set( 'custom_data', array( 'email' => $em, 'name' => $name ) );
+    }
+}
+
+==================================================================================================== 
+
+
 
 // Autofill checkout fields from user data provided from the 
 add_filter( 'woocommerce_checkout_fields' , 'mi_prefill_billing_fields' );
@@ -467,6 +469,101 @@ function mi_prefill_billing_fields ( $address_fields ) {
 
     return $address_fields;
 }
+
+====================================================================================================
+
+/* Change the add-to-cat button text & URL */
+
+// Trigure the action
+add_filter('woocommerce_add_to_cart_redirect', 'cw_redirect_add_to_cart');
+
+function cw_redirect_add_to_cart() {
+    
+    // Your checkout page URl
+    $cw_redirect_url_checkout = "add_your_checkout_page_url_here";
+
+    // Return your URL.
+    return $cw_redirect_url_checkout;
+}
+ 
+add_filter( 'woocommerce_product_single_add_to_cart_text', 'cw_btntext_cart' );
+
+add_filter( 'woocommerce_product_add_to_cart_text', 'cw_btntext_cart' );
+
+function cw_btntext_cart() {
+    return __( 'Go To Checkout', 'woocommerce' );
+}
+
+/* Change the add-to-cat button text & URL */
+
+====================================================================================================
+
+/* Remove the add to cart message/notice from the CartFlows checkout page only */
+function remove_added_to_cart_notice()
+{
+	// Get all notices.
+    $notices = WC()->session->get('wc_notices', array());
+
+    // Check array is blank or not. Means any notices are present or not.
+    if( is_array( $notices ) && !empty( $notices ) ){
+
+    	// Search for only sucess message.
+	    foreach( $notices['success'] as $key => &$notice){
+	        if( strpos( $notice, 'has been added' ) !== false){
+	            $added_to_cart_key = $key;
+	            break;
+	        }
+	    }
+
+	    // If the add to cart message found then unset it.
+	    unset( $notices['success'][$added_to_cart_key] );
+
+    }
+
+    // Display rest of the notices/messages. 
+    WC()->session->set('wc_notices', $notices);
+}
+
+// Trigure the action. This will only work on the CartFlows Checkout page.
+add_action( 'cartflows_checkout_before_shortcode' , 'remove_added_to_cart_notice', 1 );
+
+/* Remove the add to cart message/notice from the CartFlows checkout page only */
+
+====================================================================================================
+
+/* Modify the CPT's arguments */
+
+/**
+ * Filter for CPT to register more options.
+ *
+ * @param $args       array    The original CPT args.
+ * @param $post_type  string   The CPT slug.
+ *
+ * @return array
+ */
+function ada_client_filter_products_cpt( $args, $post_type ) {
+    
+    // If not cartflows_step CPT, bail out.
+    if ( 'cartflows_step' !== $post_type ) {
+        return $args;
+    }
+
+    // Add additional cartflows_step CPT options.
+    $product_args = array(
+        'show_in_rest' => true, // Enable the Gutenberg for the CartFlows Step post type.
+    );
+    
+    // Merge args together.
+    return array_merge( $args, $product_args );
+}
+
+// trigure the action to modify the arguments
+add_filter( 'register_post_type_args', 'ada_client_filter_products_cpt', 10, 2 );
+
+/* Modify the CPT's arguments */
+
+====================================================================================================
+
 
 // add_action( 'wp_footer', 'remove_conflict_actions' );
 
@@ -897,8 +994,45 @@ function da_change_product_permalink_shop( $link, $product ) {
 }
 // Change the URL of the specific product from the shop page. 
 
+==================================================================================================== 
 
+// Change the Text & URL of the ADD TO CART button on the shop page
+add_filter( 'woocommerce_loop_add_to_cart_link', 'an_replacing_add_to_cart_button_link', 10, 2 );
+
+function an_replacing_add_to_cart_button_link( $button, $product  ) {
+
+	// Get the current product id.
+	$this_product_id = $product->get_id();
+	
+	// add the condition cases for the product which you want to set the custom URL.
+	switch ($this_product_id) {
+
+		// Repeat this code from here to add more custom URL for the products.
+		case 134: // Change your product's id here for which you want to redirect to its separate checkout page. 
+			$link = 'http://localhost/sarang/cartflows/cartflows_step/checkout-page/';
+			
+			$button_text = __("View product", "woocommerce");
+
+    		$button = '<a class="button" href="'. $link .'">' . $button_text . '</a>';
+
+			break;
+
+		// Repeat this code from here to add more custom URL for the products.
+
+		default:
+			return $button;
+			break;
+	}
+
+    return $button;
+}
+// Change the Text & URL of the ADD TO CART button on the shop page
+
+==================================================================================================== 
+
+/* Show sale & regular price on the checkout page */
 add_filter("woocommerce_cart_item_subtotal", "display_discount_price", 10, 3);
+
 function display_discount_price($product_price, $cart_item, $cart_item_key)
 {
     $regular_price = wc_price( $cart_item['data']->get_regular_price() );
@@ -913,6 +1047,23 @@ function display_discount_price($product_price, $cart_item, $cart_item_key)
     }
     return $product_price;
 }
+/* Show sale & regular price on the checkout page */
+
+==================================================================================================== 
+
+/* Coupon field text change filter */
+add_filter( 'cartflows_custom_coupon_text', 'be_change_coupon_fields_text' );
+
+function be_change_coupon_fields_text( $coupon_text ){
+	
+	$coupon_text['field_text'] = 'Tuzya';
+	$coupon_text['button_text'] = 'Mazya';
+
+	return $coupon_text;
+}
+/* Coupon field text change filter */
+
+==================================================================================================== 
 
 <script type="text/javascript">
 	// Initiate jQuery Function to register all the logic.
@@ -950,8 +1101,9 @@ jQuery(document).ready(function(){
 });
 <-- Change the order review title from product to course -->
 
+==================================================================================================== 
 
-//add_action( 'woocommerce_thankyou', 'set_cancel_url' );
+add_action( 'woocommerce_thankyou', 'set_cancel_url' );
 
 function set_cancel_url( $order_id ){
 	global $post, $wp;
@@ -976,6 +1128,8 @@ function set_cancel_url( $order_id ){
 	}
 }
 
+==================================================================================================== 
+
 /* Steps to integrate the one-click with the CartFlows*/
 1. We have provided an array of supported payment gateways. You need to add a payment gateway here with the class which will be required later.
   File - "cartflows-pro/classes/class-cartflows-pro-gateways.php"
@@ -993,6 +1147,8 @@ We need to work closely to achieve it. I am happy to help you.
 
 Looking forward to hearing from you.
 /* Steps to integrate the one-click with the CartFlows*/
+
+==================================================================================================== 
 
 /* Custom code to apply the variation from the URL*/
 jQuery(window).load(function(){
@@ -1012,6 +1168,8 @@ jQuery(window).load(function(){
 });
 /* Custom code to apply the variation from the URL*/
 
+==================================================================================================== 
+
 /* Custom css to highlight specific variation */
 
 .wcf-embed-checkout-form .wcf-product-option-wrap .wcf-qty-row:nth-child(2){
@@ -1030,6 +1188,8 @@ jQuery(window).load(function(){
 }
 
 /* Custom css to highlight specific variation */
+
+==================================================================================================== 
 
 /* Add Extra div in the variation box to display the image */
 	
@@ -1053,6 +1213,8 @@ jQuery(window).load(function(){
 
 /* Add Extra div in the variation box to display the image */
 
+==================================================================================================== 
+
 /* Disable the DIVI icons only on the CartFlows Pages*/
 jQuery(document).ready(function(e){
 	if( cartflows ){
@@ -1062,6 +1224,8 @@ jQuery(document).ready(function(e){
 	}
 });
 /* Disable the DIVI icons only on the CartFlows Pages*/
+
+==================================================================================================== 
 
 /* Get User's License Key */
 add_action( 'admin_head', function() {
@@ -1077,6 +1241,8 @@ add_action( 'admin_head', function() {
     wp_die();
 });
 /* Get User's License Key */
+
+==================================================================================================== 
 
 a992b5a28386e564032c83fabd944bd6918665d1
 
@@ -1107,6 +1273,7 @@ a992b5a28386e564032c83fabd944bd6918665d1
 	}	
 }
 
+==================================================================================================== 
 
 /**
 * Filter to change the Cron time which is set to auto-complete the order status.
@@ -1124,3 +1291,36 @@ function is_wcf_set_cron_time(){
     // Return the cron time from the function.
     return $updated_cron_time;
 }
+
+==================================================================================================== 
+
+/* Display the text on specific checkout pages  */
+add_action( 'woocommerce_checkout_before_order_review', 'mi_add_text_after_your_order_heading' );
+
+function mi_add_text_after_your_order_heading(){
+	global $post;
+
+	switch ( $post->ID ) {
+		case 105: // Add your checkout page id on which you want to display the custom text
+			$html_code = '
+				<div class="hello">for first checkout page</div> 
+			';
+			break;
+		
+		case 396602: // Add your checkout page id on which you want to display the custom text
+			$html_code = '
+				<div class="hello">for Second checkout page</div>
+			';
+			break;
+
+		default: // This will be displayd if the id is not matched.
+			$html_code = '';
+			break;
+	}
+	
+	// Printing the HTML.
+	echo $html_code;
+}
+/* Display the text on specific checkout pages  */
+
+==================================================================================================== 

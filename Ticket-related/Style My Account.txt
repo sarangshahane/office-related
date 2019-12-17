@@ -1,0 +1,15 @@
+Style My Account
+
+Styling Options to give
+	- Reorder the menu ( Up/down or nested/sub-menu )
+	- Disable any menu
+	- Menu Styles ( Tabs, side menu, top navigation. )
+	- Change the label of any menu
+	- Global Color options
+	- Global formating options
+
+	- FREE OR PRO -
+	- Add new Menu
+		- Display default options such as support tickes opened
+		- Can create custom page and can design it as per their needs.
+	- Adding Shortcodes support for contact forms
