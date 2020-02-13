@@ -1,0 +1,22 @@
+
+How to solve the contentious loading icon on the checkout page.
+
+# Why does this error occurs.
+=> This contentious error comes due to the following reasons.
+
+1. If you are using a firewall plugin.
+2. The host is not allowing that request for other pages than WooCommerce.
+3. Cache plugins or server-side cache.
+
+When there is an ajax request that is made to the server to get the data by the site such as Payment Gateway OR adding product in the checkout OR changing the address fields, then this ajax request receives a 403 error response. Thus the website does not get the response in the proper format and fails to render the output. 
+
+Here the process of displaying the output on the checkout page for that ajax call is stuck, and thus it displays the continuous loading icon.
+
+
+# What is the 403 response error.
+=> Receiving a 403 response is the server telling you, "I'm sorry. I know who you are–I believe who you say you are–but you don't have permission to access this resource. Maybe if you ask the system administrator nicely, you'll get permission. But please don't bother me again until your predicament changes."
+﻿
+In summary, a 403 Forbidden response should be used afterward, when the user is authenticated but isn't authorized to perform the requested operation on the given resource.
+
+How to solve this 403 error
+=> Get in touch with your host and share the screenshot of the 403 error from the browser's console. Ask them to clear the cache of your server and exclude the CartFlows Pages from the cache. 

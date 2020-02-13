@@ -231,6 +231,25 @@ https://bit.ly/2UrxJa2
 
 ========================================================================================================================================================
 
+No Header & footer
+
+Hello,
+﻿
+Thank you for contacting us!
+﻿
+Unfortunately, it is not possible to add the theme's header & footer on the CartFlows' page.
+﻿
+But we have a sit in a plan to give an option for the user to enable/disable the header/footer on the CartFlows pages. We will be introducing a new template type, through which users can add the theme's header & footer on the CartFlows pages.
+﻿
+The reason behind of not loading the header/footer on the CartFlows pages is to avoid the UI conflicts with the design.
+﻿
+If you are using Elementor Pro then you can create a custom menu on the CartFlows Page ( Ref: https://bit.ly/2EAUsGv ). In this case, you have to design accordingly to your needs.
+﻿
+Let me know your thoughts on this.
+﻿
+
+========================================================================================================================================================
+
 I am happy, it is working
 
 Hello,
@@ -283,6 +302,28 @@ So can you please try the below steps
 
 If you still face the same issue then please provide the wp-admin login details so that I can take a look.
 
+Let me know how it goes.
+
+========================================================================================================================================================
+
+Can't update the CartFlows Pro.
+
+Hello,
+﻿
+I am sorry that you are not able to update the copy of CartFlows. Don't worry, I will help you with this.
+﻿
+Can you please tell me, are you using any cache plugins? If yes, then this is might be due to cache & can be easily solved!
+﻿
+Usually, this is due to the instance variable which is sent in the API call to get the updated version gets cached and this the Instance which gets sent is older then this error occurs.
+﻿
+So, to solve this can you please try the below step:
+
+1. Clear the cache & deactivating that Cache plugin.
+2. Deactivate the CartFlows Pro plugin & re-activate the CartFlows Pro.
+3. Got to WordPress->Dashboard->Updates-> Check for the update -> Update the CartFlows Pro.
+﻿
+If you still face the same issue then please provide the wp-admin login details so that I can take a look.
+﻿
 Let me know how it goes.
 
 ========================================================================================================================================================
@@ -528,6 +569,22 @@ I would be happy to help you.
 
 ========================================================================================================================================================
 
+Refund Yearly Subscription
+
+﻿Hello,﻿﻿
+ 
+Welcome to the CartFlows Support!
+
+To help you better with this, I have assigned your request to the store manager. 
+﻿
+﻿On the same note, can you please let me know what exactly drove you cancel the subscription. Is there any problem you faced while using the CartFlows, if you have faced the problem then please let me know I will give my 100% to solve it for you.
+ 
+Your co-operation & patience is much appreciated!
+
+
+
+========================================================================================================================================================
+
 Export the Flows & Steps UI
 
 
@@ -539,6 +596,25 @@ For more information, please check the below steps.﻿﻿﻿﻿﻿
 ﻿- Now open the newly created step in the same page builder and import the UI JSON which you have exported in step 2.
 ﻿
 ﻿Please let me know how it goes.
+
+
+========================================================================================================================================================
+
+Why Not to cache the Checkout page?
+
+We recommand not to cache the CartFlows Checkout page because, that page contains the current user's information and many dynamic scripts which are used to get the information as per the user.
+
+So, if these scripts are get cached then there is a chance of the issue be arise such as this infinite loader. 
+
+To help you with this better, can you please clear the local & Server cache on your website as well as add the CartFlows Checkout pages in not to cache setting on your server or local side. 
+
+We do have an article on this, which might help you to get the idea: https://cartflows.com/docs/disable-caching/
+
+I hope this helps.
+
+Please let me know your thoughts on this and feel free to get in touch in case you need more assistance.
+
+Happy to help.
 
 
 ========================================================================================================================================================
@@ -593,6 +669,7 @@ Can you share the screenshot or the video of it so that I can understand it bett
 ========================================================================================================================================================
 
 /* Steps to integrate the one-click with the CartFlows*/
+
 1. We have provided an array of supported payment gateways. You need to add a payment gateway here with the class which will be required later.
   File - "cartflows-pro/classes/class-cartflows-pro-gateways.php"
 
@@ -640,6 +717,23 @@ Have a fantastic day!
 
 ========================================================================================================================================================
 
+Your Cart is empty error
+
+﻿Hello,
+﻿
+Welcome to the CartFlows Support!
+﻿Let me tell you that these messages will be displayed if the following is wrong or misconfigured.
+﻿
+﻿1. If the CartFlows Checkout page's shortcode is placed on the Default WooCommerce's checkout page. 
+﻿2. If the CartFlows Checkout page is not set as a Global checkout page & viewed directly without selecting any product in the backend setting of the checkout page.
+﻿3. If the site does not contain the Default Checkout page.
+﻿
+﻿Can you please let me know does your site has all of this setting correctly configured? 
+﻿
+Looking forward to hearing from you.
+
+========================================================================================================================================================
+
 
 
 
@@ -677,7 +771,15 @@ Nice Feed back received from the users
 - https://cl.ly/dd3a945fd0eb - No complaints
 - https://cl.ly/b60bb1c31061
 - https://cl.ly/909c7e02b967
+- https://cl.ly/a004a39045b4
+- https://cl.ly/0fd4a1061527
+- https://cl.ly/b1f7d6724a1e
+- https://cl.ly/3c1f953e1c61
+- https://cl.ly/cddacb0c24a1
+- https://cl.ly/d251a91de1e5
+- https://cl.ly/e440810b7fa2
 - 
+
 
 
 What to do? 
@@ -761,3 +863,7 @@ Help Ninja Issues
 
 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/3381 - Gabrayele Elementor not working
 
+
+
+
+https://cl.ly/efd65d946026 => How did he know!

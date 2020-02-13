@@ -1,0 +1,6 @@
+CartFLows Lite
+ - Checkbox issue in the DIVI - Done
+ - Two Step's second tab issue in DIVI - Done
+ - Remove the Twp Step Compatibility CSS from Lite and Add it in the Pro. - WIP
+ - product from iframe - WIP
+ - API manager local setup issue - WIP

@@ -76,7 +76,7 @@ function remove_avada_conflict_actions(){
 
 ==================================================================================================== 
 
-// Remove extra html Jupiter Theme conflict
+/* Remove extra html Jupiter Theme conflict */
 add_action( 'wp', 'remove_jupiter_conflict_actions' );
 
 function remove_jupiter_conflict_actions(){
@@ -91,6 +91,7 @@ function remove_jupiter_conflict_actions(){
 		remove_action( 'wp_footer', 'mk_get_single_post_prev_next' );
 	}	
 }
+/* Remove extra html Jupiter Theme conflict */
 
 ==================================================================================================== 
 
@@ -138,7 +139,7 @@ function add_default_woocommerce_coupon_field(){
 }
 
 ==================================================================================================== 
-
+/* Change the variation position 1 */
 add_action( 'wp', 'change_variation_position' );
 
 function change_variation_position(){
@@ -151,11 +152,34 @@ function change_variation_position(){
 			remove_action( 'woocommerce_checkout_after_customer_details', array( Cartflows_Pro_Variation_Product::get_instance(), 'product_selection_option' ) );
 
 			add_action( 'woocommerce_before_checkout_form', array( Cartflows_Pro_Variation_Product::get_instance(), 'product_selection_option' ) );
+			
+			// OR below actions
+			// add_action( 'woocommerce_checkout_before_customer_details', array( Cartflows_Pro_Variation_Product::get_instance(), 'product_selection_option' ) );
 		}
 	}
 }
+/* Change the variation position 1 */
+
+/* Change the variation position 2 */
+add_action( 'cartflows_add_before_main_section', 'change_variation_position' );
+
+function change_variation_position(){
+
+	$post_type = get_post_type();
+	
+	if( 'cartflows_step' == $post_type ){
+		if(class_exists('Cartflows_Pro_Variation_Product')){
+
+			remove_action( 'woocommerce_checkout_after_customer_details', array( Cartflows_Pro_Variation_Product::get_instance(), 'product_selection_option' ) );
+
+			add_action( 'woocommerce_before_checkout_billing_form', array( Cartflows_Pro_Variation_Product::get_instance(), 'product_selection_option' ) );
+		}
+	}
+}
+/* Change the variation position 2 */
 
 ==================================================================================================== 
+
 
 add_action( 'cartflows_body_top', 'ga_add_ga_code_below_body' );
 
@@ -363,9 +387,9 @@ function show_custom_button_text( $translated_text, $text, $domain ) {
 
 ==================================================================================================== 
 
-add_filter( 'cartflows_show_coupon_field', 'ed_hide_coupon_field' );
+add_filter( 'cartflows_show_coupon_field', 'ma_hide_coupon_field' );
 
-function ed_hide_coupon_field(){
+function ma_hide_coupon_field(){
 	return false;
 }
 
@@ -427,7 +451,7 @@ function set_custom_data_wc_session () {
 
 
 
-// Autofill checkout fields from user data provided from the 
+/* Autofill checkout fields from user data provided from the */
 add_filter( 'woocommerce_checkout_fields' , 'mi_prefill_billing_fields' );
 
 function mi_prefill_billing_fields ( $address_fields ) {
@@ -469,6 +493,7 @@ function mi_prefill_billing_fields ( $address_fields ) {
 
     return $address_fields;
 }
+/* Autofill checkout fields from user data provided from the */
 
 ====================================================================================================
 
@@ -495,6 +520,22 @@ function cw_btntext_cart() {
 }
 
 /* Change the add-to-cat button text & URL */
+
+/* Change the add-to-cat button URL */
+add_filter( 'woocommerce_add_to_cart_form_action', 'change_butn_url' );
+
+function change_butn_url( $url ){
+	global $post
+
+	if( "your_product_id" === $post->ID ){
+
+		$url =  "add_your_landing_page_url";
+	}
+
+	return $url;
+}
+/* Change the add-to-cat button URL */
+
 
 ====================================================================================================
 
@@ -561,6 +602,78 @@ function ada_client_filter_products_cpt( $args, $post_type ) {
 add_filter( 'register_post_type_args', 'ada_client_filter_products_cpt', 10, 2 );
 
 /* Modify the CPT's arguments */
+
+====================================================================================================
+
+/* Custom Fix for the klarna Payment gateway */
+
+add_action( 'after_setup_theme', 'klarna_custom_fix_plugins_loaded_action', 99 );
+
+function klarna_custom_fix_plugins_loaded_action() {
+	
+	if ( ! defined( 'CARTFLOWS_VER' ) ) {
+	return;
+	}
+
+	remove_filter( 'woocommerce_ajax_get_endpoint', array( Cartflows_Checkout_Markup::get_instance(), 'get_ajax_endpoint' ) );
+
+	add_filter( 'woocommerce_get_checkout_url', 'klarna_custom_global_checkout_fix', 1 );
+
+}
+
+function klarna_custom_global_checkout_fix( $link ) {
+	
+	$global_checkout = get_option('_cartflows_common');
+	$global_checkout = isset( $global_checkout['global_checkout'] ) ? $global_checkout['global_checkout'] : 0;
+	
+		if ( $global_checkout ) {
+			$temp_link = get_permalink( $global_checkout );
+		if ( ! empty( $temp_link ) ) {
+			$link = $temp_link;
+			}
+		}
+	
+	return $link;
+}
+
+/* Custom Fix for the klarna Payment gateway */
+
+====================================================================================================
+
+/**
+ * Change the URL of the Global Checkout page.
+ *
+ * @param link $link of your global checkout page.
+ *
+ * @return link $your_link of ypur custom page.
+ */
+add_filter( 'cartflows_global_checkout_url', 'your_callback_function' );
+
+function your_callback_function( $link ){
+
+	// Return your custom page URL. 
+	return  $your_link = get_permalink( $post->ID ); // Add your custom page's post ID
+
+}
+
+====================================================================================================
+
+
+/* Display order bump image in the mobile view */
+
+@media only screen and (max-width: 768px){
+	.wcf-bump-order-wrap .wcf-bump-order-offer-content-left {
+	    display: block;
+	    width:100%;
+	}
+
+	.wcf-bump-order-wrap .wcf-bump-order-offer-content-left img{
+		padding: 20px;
+	}
+}
+
+/* Display order bump image in the mobile view */
+
 
 ====================================================================================================
 
@@ -996,7 +1109,7 @@ function da_change_product_permalink_shop( $link, $product ) {
 
 ==================================================================================================== 
 
-// Change the Text & URL of the ADD TO CART button on the shop page
+/* Change the Text & URL of the ADD TO CART button on the shop page */
 add_filter( 'woocommerce_loop_add_to_cart_link', 'an_replacing_add_to_cart_button_link', 10, 2 );
 
 function an_replacing_add_to_cart_button_link( $button, $product  ) {
@@ -1026,14 +1139,14 @@ function an_replacing_add_to_cart_button_link( $button, $product  ) {
 
     return $button;
 }
-// Change the Text & URL of the ADD TO CART button on the shop page
+/* Change the Text & URL of the ADD TO CART button on the shop page */
 
 ==================================================================================================== 
 
 /* Show sale & regular price on the checkout page */
-add_filter("woocommerce_cart_item_subtotal", "display_discount_price", 10, 3);
+add_filter("woocommerce_cart_item_subtotal", "al_display_discount_price", 10, 3);
 
-function display_discount_price($product_price, $cart_item, $cart_item_key)
+function al_display_discount_price($product_price, $cart_item, $cart_item_key)
 {
     $regular_price = wc_price( $cart_item['data']->get_regular_price() );
     if( $product_price != $regular_price )
@@ -1238,7 +1351,6 @@ add_action( 'admin_head', function() {
     print_r( get_option( 'wc_am_client_cartflows_api_key' ) );
     echo "</pre>";
 
-    wp_die();
 });
 /* Get User's License Key */
 
@@ -1324,3 +1436,76 @@ function mi_add_text_after_your_order_heading(){
 /* Display the text on specific checkout pages  */
 
 ==================================================================================================== 
+
+// add_filter('woocommerce_add_to_cart_redirect', 'nic_redirect_add_to_cart', 1);
+
+function nic_redirect_add_to_cart( $url) {
+	
+	$redirect_to_page_url = $url;
+
+	foreach ( WC()->cart->get_cart() as $key => $item ) {
+		
+		switch ($item['product_id']) {
+			case 'add_your_product_id_here_for_which_you_want_to_redirect':
+				$redirect_to_page_url = "add_your_page_URL_here";
+				break;
+
+			case 'add_your_product_id_here_for_which_you_want_to_redirect':
+				$redirect_to_page_url = "add_your_page_URL_here";
+				break;
+			
+			default:
+				$redirect_to_page_url = $url;
+				break;
+		}
+	}
+	
+    return $redirect_to_page_url;
+}
+
+// add_filter( 'woocommerce_ship_to_different_address_checked', '__return_true' );
+
+
+// add_filter( 'woocommerce_gateway_icon', 'remove_all_gateway_icons', 10, 2 );
+
+function remove_all_gateway_icons( $icons, $id ){
+
+	if( isset($icons) ){
+		$icons = '';
+	}
+	return $icons;
+}
+	// wp_die();
+
+
+// add_filter("woocommerce_cart_item_subtotal", "display_discount_price", 10, 3);
+// function display_discount_price($product_price, $cart_item, $cart_item_key)
+// {
+//     $regular_price = wc_price( $cart_item['data']->get_regular_price() );
+//     if( $product_price != $regular_price )
+//     {
+//     if(isset( $cart_item['cartflows_bump'] ) && 1 == $cart_item['cartflows_bump'])
+//         {
+//        $product_price = wc_format_sale_price( $cart_item['data']->get_regular_price(), $cart_item['custom_price'] );
+//     }else{
+//        $product_price = wc_format_sale_price( $cart_item['data']->get_regular_price(), $cart_item['data']->get_sale_price() );
+//     }
+//     }
+//     return $product_price;
+// }
+
+// add_filter( 'cartflows_coupon_field_options', 'aa_change_coupon_field_texts' );
+
+// function aa_change_coupon_field_texts( $coupon_field ){
+
+// 	$coupon_field[ 'field_text' ] = __('Your Text', 'cartflows');
+// 	$coupon_field[ 'button_text' ] = __('Your Text', 'cartflows');
+
+// 	return $coupon_field;
+
+// }
+
+==================================================================================================== 
+
+
+

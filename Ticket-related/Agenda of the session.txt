@@ -1,0 +1,21 @@
+WooCommerce
+- What is WooCommerce
+- Use of WooCommerce
+- How to setup the WooCommerce
+- Which default Payment Gateway is provided by the WooCommece
+- Settings of WooCommerce.
+- What are the types of Products in WooCommerce and how to create & import the dummy products in Woo. https://docs.woocommerce.com/document/product-csv-importer-exporter/dummy-data/
+
+- What is shipping, How to setup the Shipping charges.
+- How to setup the Tax amounts. Where is this setting available?
+- How to check WooCommerce Debug logs? How to re-create the default Woo pages.
+
+=============================================================================================================================================
+
+Payment Gateways:
+
+- What are the Payment Gateways, Use, setup, what is it actually ( It is a API which sends the payment information to their server and then to you bank. )
+- Famous Payment Gateways ( PayPal, Stripe. ) Others too, such as. Square Payment Gateway, Braintree, Mollie, RavePay, Authorize.net etc
+- Setting of PayPal & stripe.
+- What is Live & Sandbox accounts in Payment gateways. 
+- How does the Payment gateways works.
