@@ -619,6 +619,25 @@ Happy to help.
 
 ========================================================================================================================================================
 
+Open a Support Ticket - Tech Support
+
+﻿Hello,
+﻿
+Thank you for getting back to us!
+﻿It seems to be a technical issue with the checkout page, if you have opened the support request then you will definitely receive the reply on that support request.
+﻿
+﻿Actually, most of our support team members are located in India, due to which some timezone delay is in the play. But we strive to reply to each and every support request within 24 hours.
+﻿But it may differ on the weekend or high load. 
+﻿
+﻿If you haven't received the reply then please share the ticket ID so that I can forward it to our developer to handle it on priority.
+﻿
+I hope this helps.
+﻿Is there anything else that I can help you with?
+﻿
+Feel free to get in touch in case you have more questions.
+
+========================================================================================================================================================
+
 Short/Welcome Msgs
 
 Welcome to the CartFlows Support!
@@ -778,6 +797,8 @@ Nice Feed back received from the users
 - https://cl.ly/cddacb0c24a1
 - https://cl.ly/d251a91de1e5
 - https://cl.ly/e440810b7fa2
+- https://cl.ly/bef13301e5ff - Tireless Support
+- https://cl.ly/444a73aa5134
 - 
 
 
@@ -798,11 +819,17 @@ Not my side
 
 
 
+Suman's Tickets
+ - https://cl.ly/413f06384df4
+ - https://cl.ly/64083a45b9b8
+ - 
+ 
 
 
 
-
-
+Apprisal responses
+- https://cl.ly/451c6dc781ad
+-
 
 
 
@@ -840,6 +867,27 @@ http://screenshots.sharkz.in/sarang/2019/04/2019-04-16_16-20-20.png
 
 
 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2369 - Test Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

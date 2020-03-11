@@ -1,0 +1,40 @@
+Reference Article : https://bounteous.com/insights/2017/03/02/updated-instructions-implementing-google-optimize/
+
+
+1. Google Recommands to install this extension for better test results : https://chrome.google.com/webstore/detail/google-optimize/bhdplaindhdkiflmbfbciehdccfhegci
+
+2. Login to your Google Optimize Account.
+
+3. Create a container or account ( https://cl.ly/fa8f9251febe )
+
+4. Create your first experience ( https://cl.ly/b5d1d11a366c )
+
+5. Create the Variants ( https://cl.ly/5cd26dbdb0d2 )
+
+6. After creating variants set the rules as per your needs ( https://cl.ly/015e6caea9cd )
+
+7. Connect your analytics with Optimize and add the below code on your site's page which you are going to optimize. ( https://cl.ly/89ada2c72375 )
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131024110-2"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'add_your_analytics_id', { 'optimize_id': 'add_your_optimize_id'});
+	</script>
+
+The above code will be provided by the Google Optimize dashboard. This will be auto generated once you connect it with your analytics and add the objectives.
+
+
+8. Select the objectives of this optimizations. ( https://cl.ly/e504db073eff )
+
+9. Click on Run Diagnostics button. ( https://cl.ly/2393c08826d1 )
+
+10. Select schedule time. This is the time and date to specify when this optimization should start and click on start button to go live( https://cl.ly/2ff41f8cb6fa ).
+
+11. Done. Your A/B test experience is live and scheduled ( https://cl.ly/f899f4253479 )
+
+Now, when the user visits the checkout page or any other page that you have selected in the Optimization setting. Google Optimize will manage the display of those pages as per your settings in the dashboard.
+

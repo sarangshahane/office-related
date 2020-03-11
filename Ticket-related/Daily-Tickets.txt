@@ -11084,9 +11084,665 @@ Date : 13-01-2020
 
 Reply Only
 
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9207
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9160
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9196
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9204
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9185
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9208
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9156
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9104
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9171
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/8731 - vip refund
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/8775
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9094 - Suman
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9186
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9198
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9190
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9214
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9209
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9235
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9225
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9124 [3]	- Post type name instead of page title in the hero section of the page
+2  
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 14-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9185
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9104
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/8731
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9207 - Star
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9208
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9218
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9110
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9205
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9004
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9223
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9233
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9234
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9236
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9239
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9267
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9263
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9262
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9261
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9259
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9244
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9265
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9094
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9238
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9160
+25 
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9196 [3]	- Update not showing
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/6463 [3]	- Automatic Update is not available message due to the download package URL is not set
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9264 [3]	- Submit Button is not displaying on the Optin page
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9270 [3]	- CSS conflict with the theme & custom css
+
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 17-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9234
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9272
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9208
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9276
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9270
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9287
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9244
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9261
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9299
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9306 - HVT
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9315
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9319
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9322
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9328
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9124
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9337
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9235
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9104 [3]	- CSS Conflict in the Steps page, Remove Product cross icon is not getting clicked
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096 [3]	- Shipping fields options are not in the format due to the theme overiding the Woo template.
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9340 [3]	- Gateway Timeout error
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9264 [3]	- Optin step submit button is not displaying
+
+
+
+========================================================================================================================================================
+
+
+Date : 18-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9214
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9236
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9235
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9319
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9264
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9340
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9276
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9263
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9330
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9321
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9297
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9294
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9266
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9271
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9355
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9363
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9371
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9372
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9377
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9378
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9104 [3]	- CSS Conflict in the Steps page, Remove Product cross icon is not getting clicked
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096 [3]	- Flatsome theme is overiding the default WooCommerce's templates and creating the issue.
+
+
+
+========================================================================================================================================================
+
+
+
+Date : 19-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9104
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9236
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9330
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9355
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9321
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9297
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9423
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9430
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9429
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9233 [3]	- Min/max is not working
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096 [3]	- Flatsome theme is overiding the default WooCommerce's templates and creating the issue fixed
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9160 [3]	- WeGlot Auto translation on the CartFlows pages.
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9236 [3]	- Checkout page was not displaying on the desktop due to conflict with Checkout for WooCommerce plugin.
+
+
+
+========================================================================================================================================================
+
+
+
+Date : 20-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9429
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9427
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9389
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9260
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9445
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9235
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9236
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9160
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9449
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9423
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9459
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9455
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9467
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9466
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9104 [3]	- Conflict With WooCommerce itself
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9433 [3]	- Snap Pixel => Conflic with CartFlows => Shows loading on Product Variation section the checkout page.
+
+
+
+========================================================================================================================================================
+
+
+
+Date : 21-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9445
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9236
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9466
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9449
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9437
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9004
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9196
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9477
+
+
+
+
+
+
+Task Link																					Issue Was
+
 1  
 
 
+
+========================================================================================================================================================
+
+
+
+Date : 24-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9453
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9437
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9485
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9491
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9492
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9467
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9160
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9499
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9322 - HVT
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9508
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9509
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9529
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9530
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9531
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9533
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9536
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9418
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096 [3]	WooCommerce template is not getting changed from the child theme. Issue in the theme.
+
+
+========================================================================================================================================================
+
+
+
+Date : 25-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9467
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9530
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9558
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9531
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9486
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096 [3]	- WooCommerce template is not getting changed from the child theme. Issue in the theme ( Fixed )
+
+
+========================================================================================================================================================
+
+
+
+Date : 26-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9492
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9563
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/8927
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9574
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9589
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9587
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9586
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9264 [3]	- Submit button was not displaying due to the theme issue
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9577 [3]	- Unable to see the flows analytics
+
+
+
+
+========================================================================================================================================================
+
+
+
+Date : 27-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9586 [1]
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9627 [1]
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9620 [1]
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9618 [1]
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9531 [1]
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9605 [1]
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9598 [1]
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9629 [1]
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9233 [1] - HVT https://cl.ly/7263e78e2344
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096 [1]
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9264 [1]
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9633 [1]
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9586 [3]	- Unable to update the CartFlows Pro
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9589 [3] 	- Przelewy24 is not working with the CartFlows
+
+
+
+========================================================================================================================================================
+
+
+
+Date : 28-01-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9645
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9633
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9096 - Awesone Review
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9640
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9637
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9632
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9622
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/8469
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9445
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9646
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9589
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9233
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9643 [3] 	- Cretical error if WooCommerce is not installed and the Facebook Pixel setting is enabled.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9624 [3]	- Conflict with SEO Yoast. Editiong metabox setting is not displaying
+3  
+
+
+
+========================================================================================================================================================
+
+
+Date : 02-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9624
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9233
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9371
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9651
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9264
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9664
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9643
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9671
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9672
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9696
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9622
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9705
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9706
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9676
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9707
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9589 [3]	- Checkout ID not found error for przelewy24 payment gateway due to the checkout page was not present
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9698 [3]	- Uncaught Error: Call to a member function is_type() on boolean
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9703 [3]	- conflict with the Permalink structure set to post ID.
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 03-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/7783
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9671
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9707
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9445
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9589
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9676
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9672
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9747
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9746
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9703
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9264
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9754
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9698 [3]	- Fatal Error due to the custom code applied
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9739 [3]	- klarna Payment gateway not working
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 04-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9624
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9732
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/4979
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9445
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9698
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9778
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9775
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9766
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9761
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9726
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9776
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9732
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9567
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9742
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9736
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9738
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9731
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9785
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9707
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9789
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9790
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9739 [3]	- Klarna Payment Gateway not getting redirected from the Global Checkout page.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9672 [3] 	- Custom code to redirect from the thank you page to another page after pixel code execution.
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 05-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9794
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9754
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9799
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9778
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9806
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9629
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9821
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9820
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9819
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9815
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9739
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9810
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9830
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9829
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9698 [3]	- Fatal Error if the selected product is deleted.
+
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 06-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/5446
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9856
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9820
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9851
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9849
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9841
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9799
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9831
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9828
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9830
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9846
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9862
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9864
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9829
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9865
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9681
+
+
+
+
+Task Link																					Issue Was
+
+1  
+
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 09-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9799
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9862
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9871
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9681
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9672
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9864
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9878
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/8927
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9890
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9429
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9927
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9926
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9919
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9918
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9917
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9915
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9912
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9906
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9905
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9903
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9902
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9895
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9894
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9893
+26 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9810
+27 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9847
+28 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9150
+29 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9862
+30 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9929
+31 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9924
+32 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9920
+33 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9873
+34 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9935
+35 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9937
 
 
 
@@ -11102,157 +11758,78 @@ Task Link																					Issue Was
 
 
 
-
-All plugins
-
-	[0] => 'gravityforms/gravityforms.php',
-    [1] => 'advanced-categories-widget/advanced-categories-widget.php',
-    [2] => 'advanced-custom-fields/acf.php',
-    [3] => 'affiliate-wp/affiliate-wp.php',
-    [4] => 'affiliatewp-store-credit/affiliatewp-store-credit.php',
-    [5] => 'autocomplete-woocommerce-orders/autocomplete-woocommerce-orders.php',
-    [6] => 'cartflows-pro/cartflows-pro.php',
-    [7] => 'cartflows/cartflows.php',
-    [8] => 'classic-editor/classic-editor.php',
-    [9] => 'convertkit-for-woocommerce/woocommerce-convertkit.php',
-    [10] => 'convertkit/wp-convertkit.php',
-    [11] => 'delightful-downloads/delightful-downloads.php',
-    [12] => 'drip-gravity-forms/drip-gravity-forms.php',
-    [13] => 'duracelltomi-google-tag-manager/duracelltomi-google-tag-manager-for-wordpress.php',
-    [14] => 'email-marketing/drip.php',
-    [15] => 'favorites/favorites.php',
-    [16] => 'fv-player-pro/fv-player-pro.php',
-    [17] => 'fv-wordpress-flowplayer/flowplayer.php',
-    [18] => 'genesis-featured-widget-amplified/plugin.php',
-    [19] => 'gravityformsuserregistration/userregistration.php',
-    [20] => 'health-check/health-check.php',
-    [21] => 'learndash-memberpress/learndash-memberpress.php',
-    [22] => 'learndash-notes/note.php',
-    [23] => 'learndash-propanel/learndash_propanel.php',
-    [24] => 'learndash-woocommerce/learndash_woocommerce.php',
-    [25] => 'learndash-zapier/learndash_zapier.php',
-    [26] => 'memberpress-developer-tools/main.php',
-    [27] => 'memberpress-drip-tags/main.php',
-    [28] => 'memberpress-helpscout/main.php',
-    [29] => 'memberpress-woocommerce/main.php',
-    [30] => 'memberpress/memberpress.php',
-    [31] => 'menu-items-visibility-control/init.php',
-    [32] => 'modify-comment-parent/modify-comment-parent.php',
-    [33] => 'my-data-driven/my-data-driven.php',
-    [34] => 'post-grid/post-grid.php',
-    [35] => 'post-type-switcher/post-type-switcher.php',
-    [36] => 'pretty-link/pretty-link.php',
-    [37] => 'redirection/redirection.php',
-    [38] => 'reviewer/reviewer.php',
-    [39] => 'sfwd-lms/sfwd_lms.php',
-    [40] => 'syntaxhighlighter/syntaxhighlighter.php',
-    [41] => 'thank-you-page-for-woocommerce-nextmove/woocommerce-thankyou-pages.php',
-    [42] => 'thrive-comments/thrive-comments.php',
-    [43] => 'thrive-leads/thrive-leads.php',
-    [44] => 'thrive-ovation/thrive-ovation.php',
-    [45] => 'thrive-product-manager/thrive-product-manager.php',
-    [46] => 'thrive-ultimatum/thrive-ultimatum.php',
-    [47] => 'thrive-visual-editor/thrive-visual-editor.php',
-    [48] => 'uncanny-learndash-groups/uncanny-learndash-groups.php',
-    [49] => 'uncanny-learndash-toolkit/uncanny-learndash-toolkit.php',
-    [50] => 'uncanny-toolkit-pro/uncanny-toolkit-pro.php',
-    [51] => 'widget-logic/widget_logic.php',
-    [52] => 'woo-cart-abandonment-recovery/woo-cart-abandonment-recovery.php',
-    [53] => 'woocommerce-admin/woocommerce-admin.php',
-    [54] => 'woocommerce-custom-thank-you-pages/woocommerce-custom-thank-you-pages.php',
-    [55] => 'woocommerce-customer-order-csv-import/woocommerce-customer-order-csv-import.php',
-    [56] => 'woocommerce-drip/woocommerce-drip.php',
-    [57] => 'woocommerce-eu-vat-number/woocommerce-eu-vat-number.php',
-    [58] => 'woocommerce-gateway-stripe/woocommerce-gateway-stripe.php',
-    [59] => 'woocommerce-help-scout/woocommerce-help-scout.php',
-    [60] => 'woocommerce-pdf-invoice/woocommerce-pdf-invoice.php',
-    [61] => 'woocommerce-product-bundles/woocommerce-product-bundles.php',
-    [62] => 'woocommerce-slack/woocommerce-slack.php',
-    [63] => 'woocommerce-subscriptions/woocommerce-subscriptions.php',
-    [64] => 'woocommerce-zapier/woocommerce-zapier.php',
-    [65] => 'woocommerce/woocommerce.php',
-    [66] => 'wordfence/wordfence.php',
-    [67] => 'wordpress-seo/wp-seo.php',
-    [68] => 'wp-bouncer/wp-bouncer.php',
-    [69] => 'wp-fusion/wp-fusion.php',
-    [70] => 'wp-mail-smtp/wp_mail_smtp.php',
+========================================================================================================================================================
 
 
-Active Plugins
-'autocomplete-woocommerce-orders/autocomplete-woocommerce-orders.php',
-'convertkit-for-woocommerce/woocommerce-convertkit.php',
-'learndash-woocommerce/learndash_woocommerce.php',
-'thank-you-page-for-woocommerce-nextmove/woocommerce-thankyou-pages.php',
-'woocommerce-admin/woocommerce-admin.php',
-'woocommerce-custom-thank-you-pages/woocommerce-custom-thank-you-pages.php',
-'woocommerce-customer-order-csv-import/woocommerce-customer-order-csv-import.php',
-'woocommerce-drip/woocommerce-drip.php',
-'woocommerce-eu-vat-number/woocommerce-eu-vat-number.php',
-'woocommerce-gateway-stripe/woocommerce-gateway-stripe.php',
-'woocommerce-help-scout/woocommerce-help-scout.php',
-'woocommerce-pdf-invoice/woocommerce-pdf-invoice.php',
-'woocommerce-product-bundles/woocommerce-product-bundles.php',
-'woocommerce-slack/woocommerce-slack.php',
-'woocommerce-subscriptions/woocommerce-subscriptions.php',
-'woocommerce-zapier/woocommerce-zapier.php',
-'learndash-memberpress/learndash-memberpress.php',
-'memberpress-developer-tools/main.php',
-'memberpress-drip-tags/main.php',
-'memberpress-helpscout/main.php',
-'memberpress-woocommerce/main.php',
-'memberpress/memberpress.php',
-'redirection/redirection.php',
-'widget-logic/widget_logic.php',
-'wordfence/wordfence.php',
-'woocommerce/woocommerce.php',
-'cartflows-pro/cartflows-pro.php',
-'cartflows/cartflows.php',
+Date : 11-03-2020 
 
 
-Deactivated Plugins
-'gravityforms/gravityforms.php',
-		'advanced-categories-widget/advanced-categories-widget.php',
-		'advanced-custom-fields/acf.php',
-		'affiliate-wp/affiliate-wp.php',
-		'affiliatewp-store-credit/affiliatewp-store-credit.php',
-		'classic-editor/classic-editor.php',
-		'convertkit/wp-convertkit.php',
-		'delightful-downloads/delightful-downloads.php',
-		'drip-gravity-forms/drip-gravity-forms.php',
-		'duracelltomi-google-tag-manager/duracelltomi-google-tag-manager-for-wordpress.php',
-		'email-marketing/drip.php',
-		'favorites/favorites.php',
-		'fv-player-pro/fv-player-pro.php',
-		'fv-wordpress-flowplayer/flowplayer.php',
-		'genesis-featured-widget-amplified/plugin.php',
-		'gravityformsuserregistration/userregistration.php',
-		'health-check/health-check.php',
-		'learndash-notes/note.php',
-		'learndash-propanel/learndash_propanel.php',
-		'learndash-zapier/learndash_zapier.php',
-		'menu-items-visibility-control/init.php',
-		'modify-comment-parent/modify-comment-parent.php',
-		'my-data-driven/my-data-driven.php',
-		'post-grid/post-grid.php',
-		'post-type-switcher/post-type-switcher.php',
-		'pretty-link/pretty-link.php',
-		'reviewer/reviewer.php',
-		'sfwd-lms/sfwd_lms.php',
-		'syntaxhighlighter/syntaxhighlighter.php',
-		'thrive-comments/thrive-comments.php',
-		'thrive-leads/thrive-leads.php',
-		'thrive-ovation/thrive-ovation.php',
-		'thrive-product-manager/thrive-product-manager.php',
-		'thrive-ultimatum/thrive-ultimatum.php',
-		'thrive-visual-editor/thrive-visual-editor.php',
-		'uncanny-learndash-groups/uncanny-learndash-groups.php',
-		'uncanny-learndash-toolkit/uncanny-learndash-toolkit.php',
-		'uncanny-toolkit-pro/uncanny-toolkit-pro.php',
-		'woo-cart-abandonment-recovery/woo-cart-abandonment-recovery.php',
-		'wordpress-seo/wp-seo.php',
-		'wp-bouncer/wp-bouncer.php',
-		'wp-fusion/wp-fusion.php',
-		'wp-mail-smtp/wp_mail_smtp.php',
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9842
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9920
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9980
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9957
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9975
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9927
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9973
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9445
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9935
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9919
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9912
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9862
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9902
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9672
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9976
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9993
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9991
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9990
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9968
+20 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9969
+21 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9941
+22 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9942
+23 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9943
+24 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9947
+25 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9951
+26 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9962
+27 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9963
+28 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9964
+29 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9966
+30 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9970
+31 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9971
+32 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9959
+33 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9978
+34 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9989
+35 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9949
+36 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9799
+37 
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9791 [3]	- Payment not going through using PayPal
+2  
+
+
+
+
+
+
+466
+415
+
+
+
+
+
+
+
+
+https://cl.ly/0db4a8487efa - Reply aalele
+https://cl.ly/21db001a64d8 - Reply aalele 2 
+
 
 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/7853 - Pending
 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/8527 - Pending
@@ -11261,50 +11838,128 @@ https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/852
 
 
 
+1. Handling CartFlows Support, 
+2. CartFlows Development,  
+3. Generating CartFlows Docs and getting it completed from the team Member, 
+4. UI Development in Popup Checkout plugin, 
+5. UI design & developed for CartFlows and also handling it till present.
+6. Helped in the Some UI part of Cart Abandonment Plugin too. 
+7. Helped Astra Support Team Members too in case they are stuck or having questions related To WooCommerce. 
+8. Helped teammate in creating PHPCS in the CartFlows & CartFlows Pro.
+
+
+1. Many issues & bugs were reported after the release of the CartFlows.
+2. DIVI & Ocean WP & Couple Theme related conflicts solved. Involving the CSS, Design & Template overide fixes.
+3. Oxygen builder compatibility added.
+4. Extra theme compatibility added ( New theme provided by DIVI ) .
+5. Run time Fatal Error errors fixing ( WooCommerce is not installed & FB Pixel is enabled ).
+6. Create Woo Product from the CartFlows.
+7. Order Bump pointing arrow
+8. Stripe's Payout was not getting updated for the offers payments fix.
+9. Native Google Analytics support
+10. Two Step Checkout issue with DIVI fix.
+11. Continuous loader on checkout for zero value variation products
+12. Float value support added for Upsell/Downsell's discount
+13. Refund offer payment separately functionality added.
 
 
 
+What are the accomplishments that feel you proud? *
+1. The consider that I got an oppurtunity to handle the Full support of CartFlows ( Free & Pro ) as this is not easy as other plugins or theme. CartFlows deals with the live money transactions of the customer's webstore.
+2. The Second thing that I can say is that, user's are loving the two step design and the small improvements that is been made in the Checkout page page.
+3. Added a core code for working of Google Analytics.
+4. Design of Popup Checkout which is used on all our stores.
 
 
+What could you have done better? *
+1. Meet deadline, majorly all the tasks are completed withing deadline. But it may vary as per the support tickets. 
+2. Coming to the office on 8:30 a.m and compliting the work in time or on 6:30 p.m
+3. I can increase the time taken to solve the support ticket but it is totally depends the debug process on the user's site.
 
 
+What are the areas/skills where you should improve? Do you require any training? If so, please specify. *
+e.g. Advanced PHP, OOPs in PHP, UI Designing, Javascript, React, Communication, Management Skills etc.
+1. I think I need some help in learning the react, and advance Javascript. 
+
+Would you like to change your job role? If yes, then in which area you would like to work? *
+Full time development, Will also love to handle the Full CartFlows Support but more time in development and core part.
+
+What are your greatest strengths? What best qualities that you observed in yourself throughout this year? *
+1. Improved the debugging skills. 
+2. Got a hands on over the debugging tools like xDebug
+3. Got a idea on how to answer the angry user over a support ticket. 
+4. I can work on any product as I worked on the plugin/product that is running on our main store. So the confidance is boosted!
+5. Got more information on WooCommerce plugin. Can solve the issues coming from the WooCommerce too.
 
 
+What have you done to improve yourself? *
+1. Tried to learn new things in the IT industries.
+2. Took a reference from other products in the market and compatitors.
+3. Reading books, visiting new peoples. Took sessions to help improve my knowledge by answering the questions asked in the sessions. 
+4. Watching informational videos of the technologies and coading to improve and get more coding & debugging ideas.
 
 
+What are your goals for the next year? *
+1. Provide support to my family. As my father will going to retire from his job this year. 
+2. Get settle in life, and complete my education load and create a stable & safe future. 
+3. Need to install solor panel / station in the my village so as to fight against the electricity shortage.
+4. Go on a trip to south india, such as Leah-Ladhaak, Manali Or Pangong Lake.
+5. Visit atleast once to the Kargil War Memorial. 
+
+Where do you see yourself after three years? *
+1. At such a position where I can also manage the own team and handle full development cycle of one or more plugins inhouse. Also, take and succeed in the responsibility taken and given.
+
+2. At a better position where I can help my team members & other peoples are in needs.
 
 
+What is your most preferable approach while debugging code? Do you follow any advanced debugging practices rather than traditional methods like var_dump(), echo(), print_r(), etc? *
+1. While working on local environment I prefer the debugger; in the JS and Debugger extension of editor. 
+2. While working on user's site, I prefer staging site with FTP and use print_r() to check the values in array format & var_bump to find the datatype of the receiving value. 
 
-Autocomplete WooCommerce Orders
-Redirection
-WooCommerce Drip
+What is your favorite local development environment? Please explain about OS, IDE, debugging tools, etc.
+My fevorite local development environment is based on XAMPP, Windows 10, Sublime 3 & Visual Studio Code & Php debugger extension developed by "Felix Becker".
 
-1. WooCommerce Custom Thank You Pages
-2. WooCommerce Thank You Page - NextMove
+Most amizing feature that I like about the Sublime is that it's search in folder is very simple & user friendly. But as compare to the Visual Studio Code it is same but not much user friendly. 
 
-Wordfence Security
-Advanced Custom Fields
-ConvertKit
-Email Marketing by Drip
-ConvertKit for WooCommerce
+Regarding the OS, I found Windows is more user fiendly interms of usualibility but I like the ubanto & linus. I worked on them too but we have to write the commands to perform any task and I think it is time consuming as it require time to type the command.
 
 
-1.3.5 
+Feedback for your lead & manager. 
+
+With all due respect,
+
+1. I think I an not getting proper guidance from the lead in terms of work & new development.
+2. I think manager should listen to their employes issues and then provide the solution. As I experience, asking for solution at the first sight it is quite difficult to reply to senior member at that instant.
+3. Should equal chance to everyone to work on every other taks and there should be equal task management. 
+4. Avoid asking really basic question to the experienced person in front juniors as it may create loss of cofertness & loose confidance in front of junors. 
+5. Avoid taking meeting or issue or fault showing meeting in front of everyone/ public. Rather take a meeting in a more secure cabin or in the meeting room. 
 
 
+What are the areas where management/organization should improve?
+With all due respect.
+1. Management should also keep a eye on the cleanness and office environment more workoholic. 
+2. Should provide more work-life balance time by conducting office parties or office/team outings.
+3. Plan trips to relax the minds of everyone or create a break from work.
+4. Healght plans for employess, employe benifits policies should be implemented. Etc. 
+5. Can improve 9 hours working policy.
+6. Can improve actual meaning of flexible timing.
+7. I feel toilate position is little odd. I feel ockward while going there ( Personal view ).
 
 
+Do you have any ideas for improving our organization? *
+1. Organization should really take in a consideration of the furniture improvements, mind relaxing events in a interactive manner. 
+2. Take a survay on quarterly basis on the office related improvements. Such as Computor maintainance, furniture mainantance.
+3. Avoid giving responsibility to solve the support tickets to developer by transfering it to dedacated support team. As the developer needs a time to think on creating a complex code and security related tasks.
+4. As per the current virus outbreak at Accenture Hinjewadi, Organization should imply strick precautional check and apply sefty measures. 
+
+How is the environment of our organization? *
+1. I will rate it as average, the reason is that, the sitting arrangement is keeps on changing. Average in workstation. 
+2. 9 hours of compulsary working is I think is much. It should be including the launch break. As if we think to work for the compulsary 9 hours then it will become 10 hours a day including launch and that is much more time. The person will get less personal time.
 
 
-
-
-
-
-
-
-
-
-
+Are there any other concerns you have going forward? *
+1. clining of the office should be done before the employees arives to the workstation or in the break time when now one will be at their workstation.
+2. Rest is really nice, loving working with the passionate people.
 
 https://cl.ly/5d22885fea71 - What is this for?
 

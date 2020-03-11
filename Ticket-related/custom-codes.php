@@ -276,9 +276,9 @@ function sarang_add_the_coupon_from_url() {
 
 // Disable the payment gateway for the specific Flow, using the Flow ID. 
 
-add_filter( 'woocommerce_available_payment_gateways', 'sarang_disable_payment_gateway' );
+add_filter( 'woocommerce_available_payment_gateways', 'mar_disable_payment_gateway' );
   
-function sarang_disable_payment_gateway( $available_gateways ) {
+function mar_disable_payment_gateway( $available_gateways ) {
      
     // To be executed in the frontend. 
 	if ( ! is_admin() ) {
@@ -386,12 +386,13 @@ function show_custom_button_text( $translated_text, $text, $domain ) {
 }
 
 ==================================================================================================== 
+/* Filter to hide/show on CartFlows page */
+add_filter( 'cartflows_show_coupon_field', 'br_hide_coupon_field' );
 
-add_filter( 'cartflows_show_coupon_field', 'ma_hide_coupon_field' );
-
-function ma_hide_coupon_field(){
+function br_hide_coupon_field(){
 	return false;
 }
+/* Filter to hide/show on CartFlows page */
 
 ==================================================================================================== 
 
@@ -412,7 +413,14 @@ function add_gtm_code_below_body(){
 }
 
 ==================================================================================================== 
+/* 
+* Code installation instructions:
+* 1. Copy the below code.
+* 2. Open your child theme's functions.php file.
+* 3. Paste the copied code at the very bottom of it & save the file OR upload it on your server/hosting.
+*/
 
+/* Change the Billing Details text */
 function wc_billing_field_strings( $translated_text, $text, $domain ) {
     switch ( $translated_text ) {
         case 'Billing details' :
@@ -421,7 +429,9 @@ function wc_billing_field_strings( $translated_text, $text, $domain ) {
     }
     return $translated_text;
 }
+
 add_filter( 'gettext', 'wc_billing_field_strings', 20, 3 );
+/* Change the Billing Details text */
 
 ==================================================================================================== 
 
