@@ -11815,10 +11815,261 @@ Task Link																					Issue Was
 
 
 
+========================================================================================================================================================
 
 
-466
-415
+Date : 12-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9919
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10014
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9991
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10019
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10020
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10023
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9968
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9949
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10032
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9831
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9964
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9962
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9926
+14 
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9791 [3]	- Paypal is not working due to the wrong API details.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9951 [3]	- Course is getting redirected to the landing page of the CartFlows evenif it is purchased by the user and login to his account as customer
+3  
+
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 13-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9964
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10063
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10045
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9949
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10053
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9971
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9799
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/7982
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9962
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10077
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9791
+13 
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9951 [3]	- Course is getting redirected to the CartFLows landing page even if logged in.
+
+
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 16-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/2362
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10063
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10088
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10101
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10103
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10116
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9831
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10125
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10124
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10119
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10118
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10136
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9951
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10106
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10102
+17 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10108
+18 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10081
+19 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9971
+
+
+
+
+Task Link																					Issue Was
+
+1  
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 17-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10101
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9991
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10090
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10166
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10168
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10152
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10143
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10125 [3]	- Custom code is created to add the product's name in the URL of the Global Checkout page.
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9831 [3]	- Custom code to remove the product from the checkout page and add the bump order product in the cart.
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 18-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10159
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10200
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10197
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10103
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10191
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9962
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10189
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10175
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10143
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10159
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10108
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10171
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10168
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9951 [3]	- LearnDash course is getting redirected to CartFlows Landing page even if it is purchased.
+2  
+
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 19-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10229
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9375
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10234
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10223
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10215
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10214
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10197
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10168
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10206
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10213
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10220
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10103 [3]	- Upsell not working
+
+
+
+
+
+========================================================================================================================================================
+
+
+Date : 20-03-2020 
+
+
+Reply Only
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10105
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10258
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10257
+4  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10214
+5  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10223
+6  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10177
+7  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10228
+8  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9791
+9  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10045
+10 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10268
+11 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10272
+12 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10274
+13 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10276
+14 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10278
+15 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10277
+16 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10275
+
+
+
+
+
+
+Task Link																					Issue Was
+
+1  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10103 [3]	- Upsell not working 
+2  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10273 [3]	- Thank you page not working due to cache.
+3  https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/10189 [3]	- Update not displaying due to conflict 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11830,6 +12081,7 @@ Task Link																					Issue Was
 https://cl.ly/0db4a8487efa - Reply aalele
 https://cl.ly/21db001a64d8 - Reply aalele 2 
 
+https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/9577 - Analytics Popup Scroll issue
 
 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/7853 - Pending
 https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/8527 - Pending
@@ -11837,6 +12089,7 @@ https://dashboard.helpninja.com/#/dashboard/5c11e57485282043b6a952ea/threads/852
 
 
 
+https://docs.google.com/forms/u/0/d/e/1FAIpQLSduIH8Oy9ufN4ms3Vr49Uz1rnOF_5SEpgaXkbXZVARvApVjog/formResponse
 
 1. Handling CartFlows Support, 
 2. CartFlows Development,  

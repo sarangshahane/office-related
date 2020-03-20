@@ -668,6 +668,77 @@ function your_callback_function( $link ){
 
 ====================================================================================================
 
+/* Change the checkout page URL in the my account's buy button */
+
+add_filter( 'woocommerce_my_account_my_orders_actions', 'change_pay_url', 10, 2 );
+
+function change_pay_url($actions, $order){
+
+	$order_id = $order->get_id();
+	$pay_url = "http://localhost/sarang/cartflows/cartflows_step/checkout-page-4/";
+	$items = $order->get_items();
+	$product_quantity = 1;
+
+	$pay_url = add_query_arg(
+		array(
+			'pay_for_order' => 'true',
+			'key'           => $order->get_order_key(),
+		),
+		$pay_url
+	);
+	// var_dump($items);
+	// die();
+	foreach ( $items as $item ) {
+	    // $product_name = $item->get_name();
+	    $product_id = $item->get_product_id();
+
+	    WC()->cart->add_to_cart( $product_id, $product_quantity, 0, array(), $item );
+	    // $product_variation_id = $item->get_variation_id();
+	}
+
+	return $pay_url;
+}
+
+/* Change the checkout page URL in the my account's buy button */
+
+====================================================================================================
+
+/* Filter to add Product name as the query string/paramater in the Global Checkout URL */
+add_filter( 'cartflows_global_checkout_url', 'add_product_name_in_url' );
+
+function add_product_name_in_url( $url ){
+
+	// Variable Declariation.
+	$i = 0;
+
+	// Get current cart items.
+	$items = WC()->cart->get_cart();
+
+	// Define the array to store the multiple products for adding as a query string.
+	$product_names = array();
+
+	// Preapare the array for number of products in the cart.
+	foreach ( $items as $item => $value ) {
+
+		$_product 		= wc_get_product( $value['product_id'] );
+
+		$product_title 	= $_product->get_title();
+
+		$product_names['checkout_' . $i] = $product_title;
+
+		$i++;
+	}
+
+	// Add the names of products in the Global Checkout URL.
+	$url = add_query_arg( $product_names, $url );
+	
+	// Return the updated URL.
+	return $url;
+}
+/* Filter to add Product name as the query string/paramater in the Global Checkout URL */
+
+====================================================================================================
+
 
 /* Display order bump image in the mobile view */
 

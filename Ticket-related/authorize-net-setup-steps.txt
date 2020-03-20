@@ -1,0 +1,18 @@
+How to setup the Authorize.net gateway for the CartFlows Upsell & Downsell.
+
+Currently, we have added the Credit Card Support in the CartFlows for the Upsell & Downsell.
+
+1. Official website : https://www.authorize.net/
+2. Create a an account to accept the payment.
+3. Login to your account
+4. Goto Settings ( https://cl.ly/f8629c74306f ) -> API Credentils & Keys ( https://cl.ly/788bc8cbaf48 ) -> Generate New Keys and API ID ( https://cl.ly/e7a6968a1be6 )
+5. Copy above Keys and ID on you machine in one file for the temperary purpose.
+5. Now, download the Official Authorize.net plugin from the WooCommerce's store or from the official website. The Name should be "WooCommerce Authorize.Net Gateway" by "SkyVerge".
+6. Now, login to your website from the wp-admin panel & goto plugins -> Add new. Upload the authorize.net plugin and activate it.
+7. Goto WooCommerce -> Settings -> Payments Tab -> Enable the "Authorize.Net Credit Card" option. ( https://cl.ly/3f8c4374a622 )
+8. Add your testing/live API credential in the setting and click save button.
+9. Now your checkout page should show the Credit Card fields for the payment. ( https://cl.ly/1ed22b29f852 )
+10. Your setup is complete.
+
+
+Note: Your website should have an SSL configured and all the URLs should be forced to use HTTPS, otherwise your payment will not work and it will display such error messages: https://cl.ly/12cd30d5d8aa
