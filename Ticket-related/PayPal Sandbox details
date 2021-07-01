@@ -3,58 +3,73 @@ Decoded: Sarang@123
 Encoded: U2FyYW5nQDEyMw==
 
 ==============================================================================================
+
+My Personal PayPal Sandbox Details
+
 Receiver email: sarangbusiness321@gmail.com
 
 Sandbox API username : sarangbusiness321_api1.gmail.com
 Sandbox API password : 3Y9W3EMKL3MYGW36
 Sandbox API signature :AXSd1qScr76OJvJhzLTpqojPufcVAcokGlze6Abfzxw-zFN3N7Fvf5Q2
 
-Own OFC:
+==============================================================================================
 
-Accounts: 
+My Office Email PayPal Sandbox Details :
+
+Sandbox Accounts: 
 
 Main Account Email ID: sarangs@bsf.io
 
 1. sarangs-facilitator@bsf.io
-
 2. sarangs-buyer@bsf.io
-
 3. sarangsbuyer@bsf.io
 
-
 Sandbox API username : sarangs-facilitator_api1.bsf.io
+
 Sandbox API password : LYUATJRCN5AJHRHD
 
 Sandbox API signature : AKGqiD9OpjlxVIn6rhtztPr0e1ZBA54tSFkgHs-WHBhRIGKXsGn1EUXv
 
 Security token : -mRtXarW-U-W39obaSEHhGfd9VU_rD1jWy9MLyVeoIMX5KuA-vXxt-7Q9DC
 
+
 ==============================================================================================
+
+
+Credentials for new PayPal Payments Gateway
+
+Sandbox Email address: sarangs@bsf.io
+
+Sandbox Merchant Id  : 4WKWL3X7WERF6
+
+Sandbox Client Id    : AWBczm0J1b2rfoYL4tJFQleNJlh0rU0kfBr43oPw1J-Ka40WJvu-Fs-DCqF_ybwugfLIAXXcjfCeaKxN
+
+Sandbox Secret Key   : EL8Sh7uMkgD6K44l-OCXu-Rr5xef2nwLbfEjjKZ3RBpmKaJj0GVfzMLvnDOMBN49Zj40jPrqGTFaDjw-
+
+
+==============================================================================================
+
 
 Stripe Details:
 
 Test publishable Key: pk_test_51E011DBmbTaDZzGY8hUlXWXl19P77OP05cc5SU0gSNcvm4V0XLu2ROkHoQ0AzxKmNgey5DNWoBa9VRpSmh5Btfo200av2YvJ8U
 Test Secret Key: sk_test_51E011DBmbTaDZzGYq5jiDFtKuVMU1tzMoTeLHMuO09lKuksLWmopFjdMLIMfsWIDc9ClxmLptUdHG2MfqYc5fWXG00cSYR0T0s
 
-==============================================================================================
-
-alex@daveyandkrista.com
-
-
-
 
 ==============================================================================================
 
 Authorize.net Sandbox Account
+
 Screenshot : https://cl.ly/44da8828e8cf
 
 Login ID: sarangsbsf123/sarangs@bsf.io
 Password: Sarang@123
 
 API Login ID:	7Ch95h4tRhQX
-Transaction Key: 5E2J958S3F6aq3z6
-Signature Key:03261943CD7C829D3D8BA64AC3A7BD0C614F885F307D2FC984827DAB8D9941A79A5711D2D8C392966612D44E2356279FAA588F7DC0403D7213E951C2DF7AADA8
 
+Transaction Key: 5E2J958S3F6aq3z6
+
+Signature Key:03261943CD7C829D3D8BA64AC3A7BD0C614F885F307D2FC984827DAB8D9941A79A5711D2D8C392966612D44E2356279FAA588F7DC0403D7213E951C2DF7AADA8
 
 
 ==============================================================================================
@@ -90,11 +105,8 @@ Login Details
 Username: 
 Password:
 
-
 Sandbox Application ID : sandbox-sq0idb-6MzeLN04RUz6BfwAZ9iucw
 Sandbox Access Token : EAAAEJqMGzizQ1Hmi4TwugIllx6Ch5rC0Bu5DhXWlyx77LkYoeUNr-VmXOrqAzkr
 
 
 ==============================================================================================
-
-
