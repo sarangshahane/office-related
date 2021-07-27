@@ -4,7 +4,7 @@ Encoded: U2FyYW5nQDEyMw==
 
 ==============================================================================================
 
-My Personal PayPal Sandbox Details
+My Personal Email's PayPal Sandbox Details
 
 Receiver email: sarangbusiness321@gmail.com
 
@@ -14,7 +14,7 @@ Sandbox API signature :AXSd1qScr76OJvJhzLTpqojPufcVAcokGlze6Abfzxw-zFN3N7Fvf5Q2
 
 ==============================================================================================
 
-My Office Email PayPal Sandbox Details :
+My Office Email's PayPal Sandbox Details :
 
 Sandbox Accounts: 
 
@@ -46,6 +46,30 @@ Sandbox Client Id    : AWBczm0J1b2rfoYL4tJFQleNJlh0rU0kfBr43oPw1J-Ka40WJvu-Fs-DC
 
 Sandbox Secret Key   : EL8Sh7uMkgD6K44l-OCXu-Rr5xef2nwLbfEjjKZ3RBpmKaJj0GVfzMLvnDOMBN49Zj40jPrqGTFaDjw-
 
+/**
+* *************************
+* Steps to get these creds.
+* *************************
+*/ 
+
+# Live/Sandbox Email address => Your main PayPal account email address
+
+# Live/Sandbox Merchant Id
+=> Login to your facilitor account [The account where you receive the payments ] -> Account Settings -> Business Information -> Merchant ID: https://bit.ly/3hcT0NK
+
+# live/Sandbox Client Id
+=> 
+- Login to developer.paypal.com with your main paypal login details
+- Click on Accounts menu in left
+- Click on business email ID -> View/edit account option : https://bit.ly/3w1d3Eh
+- In API Credentials Tab -> Click on the App which you had created : https://bit.ly/3w64h8a
+- You will get the details: https://bit.ly/3qyjUnM
+
+/**
+* *************************
+* Steps to get these creds.
+* *************************
+*/ 
 
 ==============================================================================================
 
